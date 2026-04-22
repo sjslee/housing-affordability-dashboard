@@ -2,7 +2,8 @@ from pathlib import Path
 import pandas as pd
 import json
 
-INPUT_FILE = Path("data/processed/housing_with_affordability.csv")
+HIST_FILE = Path("data/processed/housing_with_affordability.csv")
+FORECAST_FILE = Path("data/processed/state_forecasts.csv")
 OUTPUT_FILE = Path("dashboard/housing-dashboard-data.json")
 
 STATE_ABBREV = {
@@ -21,70 +22,84 @@ STATE_ABBREV = {
     "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY"
 }
 
-def label_affordability(ratio):
-    if ratio >= 2.0:
-        return "Affordable"
-    elif ratio >= 1.4:
-        return "Moderate"
+def label_affordability(x):
+    if x is None or pd.isna(x):
+        return "Unknown"
+    elif x >= 5:
+        return "High Affordability"
+    elif x >= 3:
+        return "Moderate Affordability"
     else:
-        return "Stretched"
+        return "Low Affordability"
 
 def export_dashboard():
-    df = pd.read_csv(INPUT_FILE)
-    df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values(["state", "date"]).copy()
+    hist = pd.read_csv(HIST_FILE)
+    fc = pd.read_csv(FORECAST_FILE)
 
-    latest_date = df["date"].max()
+    hist["date"] = pd.to_datetime(hist["date"])
+    fc["date"] = pd.to_datetime(fc["date"])
 
-    # current snapshot
-    current = df[df["date"] == latest_date].copy()
+    hist = hist.sort_values(["state", "date"]).copy()
+    fc = fc.sort_values(["state", "date"]).copy()
 
-    # simple placeholder forecast:
-    # use last observed values as forecast values for now
-    current["forecast_price"] = current["zhvi"]
-    current["forecast_ratio"] = current["affordability_ratio"]
-    current["change"] = current["forecast_ratio"] - current["affordability_ratio"]
-    current["label"] = current["affordability_ratio"].apply(label_affordability)
-    current["state_code"] = current["state"].map(STATE_ABBREV)
+    latest_hist_date = hist["date"].max()
 
-    # KPIs: national averages
+    # Latest historical row per state
+    current = hist[hist["date"] == latest_hist_date].copy()
+
+    # Final forecast row per state (12-month ahead point)
+    final_fc = fc.sort_values(["state", "date"]).groupby("state", as_index=False).tail(1).copy()
+
+    # Merge latest actual + final forecast
+    summary = current.merge(
+        final_fc[["state", "forecast_home_price", "forecast_affordability_ratio"]],
+        on="state",
+        how="left"
+    )
+
+    summary["change"] = summary["forecast_affordability_ratio"] - summary["affordability_ratio"]
+    summary["label"] = summary["affordability_ratio"].apply(label_affordability)
+    summary["state_code"] = summary["state"].map(STATE_ABBREV)
+
+    # KPIs
     kpis = {
-        "current_home_price": float(current["zhvi"].mean()),
-        "current_affordability_ratio": float(current["affordability_ratio"].mean()),
-        "forecast_change": float(current["change"].mean()),
-        "mortgage_rate": float(current["mortgage_rate"].mean())
+        "current_home_price": float(summary["zhvi"].mean()),
+        "current_affordability_ratio": float(summary["affordability_ratio"].mean()),
+        "forecast_change": float(summary["change"].mean()),
+        "mortgage_rate": float(summary["mortgage_rate"].mean())
     }
 
     # Map data
     map_data = []
-    for _, row in current.iterrows():
+    for _, row in summary.iterrows():
         if pd.isna(row["state_code"]):
             continue
         map_data.append({
             "state": row["state"],
             "state_code": row["state_code"],
             "current_affordability_ratio": float(row["affordability_ratio"]),
-            "forecast_affordability_ratio": float(row["forecast_ratio"]),
+            "forecast_affordability_ratio": float(row["forecast_affordability_ratio"]),
             "affordability_change": float(row["change"])
         })
 
     # Table data
     table_data = []
-    for _, row in current.iterrows():
+    for _, row in summary.iterrows():
         table_data.append({
             "state": row["state"],
             "current_price": float(row["zhvi"]),
-            "forecast_price": float(row["forecast_price"]),
+            "forecast_price": float(row["forecast_home_price"]),
             "current_ratio": float(row["affordability_ratio"]),
-            "forecast_ratio": float(row["forecast_ratio"]),
+            "forecast_ratio": float(row["forecast_affordability_ratio"]),
             "change": float(row["change"]),
             "label": row["label"]
         })
 
-    # State series for charts
+    # State history + forecast series
     state_series = []
-    for state, g in df.groupby("state"):
-        g = g.sort_values("date").copy()
+    for state, g_hist in hist.groupby("state"):
+        g_hist = g_hist.sort_values("date").copy()
+        g_fc = fc[fc["state"] == state].sort_values("date").copy()
 
         history = [
             {
@@ -92,24 +107,20 @@ def export_dashboard():
                 "home_price": float(p),
                 "affordability_ratio": float(a)
             }
-            for d, p, a in zip(g["date"], g["zhvi"], g["affordability_ratio"])
+            for d, p, a in zip(g_hist["date"], g_hist["zhvi"], g_hist["affordability_ratio"])
         ]
-
-        # placeholder forecast: repeat last point 12 times monthly
-        last_row = g.iloc[-1]
-        forecast_dates = pd.date_range(
-            last_row["date"] + pd.offsets.MonthEnd(1),
-            periods=12,
-            freq="ME"
-        )
 
         forecast = [
             {
                 "date": d.strftime("%Y-%m-%d"),
-                "home_price": float(last_row["zhvi"]),
-                "affordability_ratio": float(last_row["affordability_ratio"])
+                "home_price": float(p),
+                "affordability_ratio": float(a)
             }
-            for d in forecast_dates
+            for d, p, a in zip(
+                g_fc["date"],
+                g_fc["forecast_home_price"],
+                g_fc["forecast_affordability_ratio"]
+            )
         ]
 
         state_series.append({
