@@ -1,5 +1,6 @@
 from pathlib import Path
 import pandas as pd
+import numpy as np
 import json
 
 HIST_FILE = Path("data/processed/housing_with_affordability.csv")
@@ -22,6 +23,7 @@ STATE_ABBREV = {
     "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY"
 }
 
+
 def label_affordability(x):
     if x is None or pd.isna(x):
         return "Unknown"
@@ -31,6 +33,17 @@ def label_affordability(x):
         return "Moderate Affordability"
     else:
         return "Low Affordability"
+
+
+def clean_for_json(obj):
+    if isinstance(obj, dict):
+        return {k: clean_for_json(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_for_json(v) for v in obj]
+    elif isinstance(obj, float) and (np.isnan(obj) or np.isinf(obj)):
+        return None
+    return obj
+
 
 def export_dashboard():
     hist = pd.read_csv(HIST_FILE)
@@ -47,8 +60,13 @@ def export_dashboard():
     # Latest historical row per state
     current = hist[hist["date"] == latest_hist_date].copy()
 
-    # Final forecast row per state (12-month ahead point)
-    final_fc = fc.sort_values(["state", "date"]).groupby("state", as_index=False).tail(1).copy()
+    # Final forecast row per state (12-month-ahead point)
+    final_fc = (
+        fc.sort_values(["state", "date"])
+          .groupby("state", as_index=False)
+          .tail(1)
+          .copy()
+    )
 
     # Merge latest actual + final forecast
     summary = current.merge(
@@ -57,7 +75,19 @@ def export_dashboard():
         how="left"
     )
 
-    summary["change"] = summary["forecast_affordability_ratio"] - summary["affordability_ratio"]
+    # Replace inf with NaN, then drop bad rows
+    summary = summary.replace([np.inf, -np.inf], np.nan)
+    summary = summary.dropna(subset=[
+        "zhvi",
+        "affordability_ratio",
+        "forecast_home_price",
+        "forecast_affordability_ratio",
+        "mortgage_rate"
+    ])
+
+    summary["change"] = (
+        summary["forecast_affordability_ratio"] - summary["affordability_ratio"]
+    )
     summary["label"] = summary["affordability_ratio"].apply(label_affordability)
     summary["state_code"] = summary["state"].map(STATE_ABBREV)
 
@@ -74,6 +104,7 @@ def export_dashboard():
     for _, row in summary.iterrows():
         if pd.isna(row["state_code"]):
             continue
+
         map_data.append({
             "state": row["state"],
             "state_code": row["state_code"],
@@ -101,13 +132,23 @@ def export_dashboard():
         g_hist = g_hist.sort_values("date").copy()
         g_fc = fc[fc["state"] == state].sort_values("date").copy()
 
+        g_hist = g_hist.replace([np.inf, -np.inf], np.nan)
+        g_fc = g_fc.replace([np.inf, -np.inf], np.nan)
+
+        g_hist = g_hist.dropna(subset=["zhvi", "affordability_ratio"])
+        g_fc = g_fc.dropna(subset=["forecast_home_price", "forecast_affordability_ratio"])
+
         history = [
             {
                 "date": d.strftime("%Y-%m-%d"),
                 "home_price": float(p),
                 "affordability_ratio": float(a)
             }
-            for d, p, a in zip(g_hist["date"], g_hist["zhvi"], g_hist["affordability_ratio"])
+            for d, p, a in zip(
+                g_hist["date"],
+                g_hist["zhvi"],
+                g_hist["affordability_ratio"]
+            )
         ]
 
         forecast = [
@@ -137,11 +178,15 @@ def export_dashboard():
         "state_series": state_series
     }
 
+    # Clean JSON-safe values
+    dashboard_data = clean_for_json(dashboard_data)
+
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(dashboard_data, f, indent=2)
+        json.dump(dashboard_data, f, indent=2, allow_nan=False)
 
     print(f"Saved dashboard JSON to: {OUTPUT_FILE}")
+
 
 if __name__ == "__main__":
     export_dashboard()
