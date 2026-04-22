@@ -8,6 +8,7 @@ SCRIPTS = [
     "scripts/clean_fred.py",
     "scripts/merge_data.py",
     "scripts/calculate_affordability.py",
+    "scripts/forecast_arima.py",
     "scripts/export_dashboard.py"
 ]
 
