@@ -18,6 +18,9 @@ def merge_data():
     # Merge on date
     df = df_zillow.merge(df_fred, on="date", how="left")
 
+    # Filter to 2015+
+    df = df[df["date"] >= "2015-01-01"]
+    
     # Drop rows where key values are missing
     df = df.dropna(subset=["zhvi", "mortgage_rate"])
 
