@@ -1,9 +1,9 @@
 {
   "default_state": "Wisconsin",
   "kpis": {
-    "current_home_price": 386419.9250827326,
-    "current_affordability_ratio": 3.3600774831822444,
-    "forecast_change": -0.09210154756160943,
+    "current_home_price": 383590.9335547485,
+    "current_affordability_ratio": 3.3819552033815823,
+    "forecast_change": -0.08371013571542142,
     "mortgage_rate": 6.177500000000001
   },
   "map_data": [
@@ -11,802 +11,818 @@
       "state": "Alabama",
       "state_code": "AL",
       "current_affordability_ratio": 5.226162555102116,
-      "forecast_affordability_ratio": 5.049124423375205,
-      "affordability_change": -0.17703813172691074
+      "forecast_affordability_ratio": 5.038506885964234,
+      "affordability_change": -0.18765566913788145
     },
     {
       "state": "Alaska",
       "state_code": "AK",
       "current_affordability_ratio": 2.8587959270520944,
-      "forecast_affordability_ratio": 2.7872360085624988,
-      "affordability_change": -0.07155991848959564
+      "forecast_affordability_ratio": 2.7827905225890923,
+      "affordability_change": -0.07600540446300208
     },
     {
       "state": "Arizona",
       "state_code": "AZ",
       "current_affordability_ratio": 2.8272963666081257,
-      "forecast_affordability_ratio": 2.827362397503689,
-      "affordability_change": 6.603089556334041e-05
+      "forecast_affordability_ratio": 2.827383626229835,
+      "affordability_change": 8.725962170919033e-05
     },
     {
       "state": "Arkansas",
       "state_code": "AR",
       "current_affordability_ratio": 5.405583927687261,
-      "forecast_affordability_ratio": 5.207236671843029,
-      "affordability_change": -0.19834725584423207
+      "forecast_affordability_ratio": 5.198742488020083,
+      "affordability_change": -0.20684143966717805
     },
     {
       "state": "California",
       "state_code": "CA",
       "current_affordability_ratio": 1.52772384852821,
-      "forecast_affordability_ratio": 1.520438501922575,
-      "affordability_change": -0.007285346605635068
+      "forecast_affordability_ratio": 1.5260574329737109,
+      "affordability_change": -0.001666415554499201
     },
     {
       "state": "Colorado",
       "state_code": "CO",
       "current_affordability_ratio": 2.2540145652810333,
-      "forecast_affordability_ratio": 2.252650327383863,
-      "affordability_change": -0.0013642378971701064
+      "forecast_affordability_ratio": 2.250479859352347,
+      "affordability_change": -0.0035347059286863214
     },
     {
       "state": "Connecticut",
       "state_code": "CT",
       "current_affordability_ratio": 2.34961270584414,
-      "forecast_affordability_ratio": 2.322184191801357,
-      "affordability_change": -0.027428514042783014
+      "forecast_affordability_ratio": 2.346401567380011,
+      "affordability_change": -0.0032111384641289042
     },
     {
       "state": "Delaware",
       "state_code": "DE",
       "current_affordability_ratio": 3.0007516343451286,
-      "forecast_affordability_ratio": 2.8935908184296784,
-      "affordability_change": -0.10716081591545024
+      "forecast_affordability_ratio": 2.9133776619326497,
+      "affordability_change": -0.0873739724124789
     },
     {
       "state": "District of Columbia",
       "state_code": "DC",
       "current_affordability_ratio": 2.073416865899912,
-      "forecast_affordability_ratio": 2.064650391107373,
-      "affordability_change": -0.008766474792539114
+      "forecast_affordability_ratio": 2.0669252479250058,
+      "affordability_change": -0.006491617974906383
     },
     {
       "state": "Florida",
       "state_code": "FL",
       "current_affordability_ratio": 3.097502906884082,
-      "forecast_affordability_ratio": 3.084127910961388,
-      "affordability_change": -0.013374995922693866
+      "forecast_affordability_ratio": 3.011970614896559,
+      "affordability_change": -0.08553229198752321
     },
     {
       "state": "Georgia",
       "state_code": "GA",
       "current_affordability_ratio": 3.4609004524259155,
-      "forecast_affordability_ratio": 3.346672653639233,
-      "affordability_change": -0.11422779878668265
+      "forecast_affordability_ratio": 3.3464597496897075,
+      "affordability_change": -0.11444070273620799
     },
     {
       "state": "Hawaii",
       "state_code": "HI",
       "current_affordability_ratio": 1.5035124725243338,
-      "forecast_affordability_ratio": 1.4916150431024775,
-      "affordability_change": -0.011897429421856343
+      "forecast_affordability_ratio": 1.4831867876909155,
+      "affordability_change": -0.020325684833418345
     },
     {
       "state": "Idaho",
       "state_code": "ID",
       "current_affordability_ratio": 2.5286067572872324,
-      "forecast_affordability_ratio": 2.5287755896545376,
-      "affordability_change": 0.00016883236730524942
+      "forecast_affordability_ratio": 2.528775844348526,
+      "affordability_change": 0.00016908706129381557
     },
     {
       "state": "Illinois",
       "state_code": "IL",
       "current_affordability_ratio": 3.5238541597001216,
-      "forecast_affordability_ratio": 3.4596779434561347,
-      "affordability_change": -0.06417621624398695
+      "forecast_affordability_ratio": 3.470638477806722,
+      "affordability_change": -0.05321568189339976
     },
     {
       "state": "Indiana",
       "state_code": "IN",
       "current_affordability_ratio": 4.591716117471828,
-      "forecast_affordability_ratio": 4.4136056545143125,
-      "affordability_change": -0.1781104629575152
+      "forecast_affordability_ratio": 4.400373202490973,
+      "affordability_change": -0.19134291498085432
     },
     {
       "state": "Iowa",
       "state_code": "IA",
       "current_affordability_ratio": 4.596570309667775,
-      "forecast_affordability_ratio": 4.425254045644145,
-      "affordability_change": -0.17131626402362965
+      "forecast_affordability_ratio": 4.425769500649711,
+      "affordability_change": -0.17080080901806394
     },
     {
       "state": "Kansas",
       "state_code": "KS",
       "current_affordability_ratio": 4.399456980238467,
-      "forecast_affordability_ratio": 4.2176989034755925,
-      "affordability_change": -0.1817580767628746
+      "forecast_affordability_ratio": 4.217520132410673,
+      "affordability_change": -0.18193684782779407
     },
     {
       "state": "Kentucky",
       "state_code": "KY",
       "current_affordability_ratio": 5.017855264056951,
-      "forecast_affordability_ratio": 4.804259331274437,
-      "affordability_change": -0.2135959327825141
+      "forecast_affordability_ratio": 4.809193309268133,
+      "affordability_change": -0.208661954788818
     },
     {
       "state": "Louisiana",
       "state_code": "LA",
       "current_affordability_ratio": 5.712566223169821,
-      "forecast_affordability_ratio": 5.6497928178531165,
-      "affordability_change": -0.06277340531670461
+      "forecast_affordability_ratio": 5.677522128456482,
+      "affordability_change": -0.03504409471333947
     },
     {
       "state": "Maine",
       "state_code": "ME",
       "current_affordability_ratio": 2.7011241297781314,
-      "forecast_affordability_ratio": 2.572773243281301,
-      "affordability_change": -0.12835088649683035
+      "forecast_affordability_ratio": 2.592087007372652,
+      "affordability_change": -0.10903712240547936
     },
     {
       "state": "Maryland",
       "state_code": "MD",
       "current_affordability_ratio": 2.60651038278604,
-      "forecast_affordability_ratio": 2.550577361399257,
-      "affordability_change": -0.05593302138678302
+      "forecast_affordability_ratio": 2.518990768642104,
+      "affordability_change": -0.08751961414393605
     },
     {
       "state": "Massachusetts",
       "state_code": "MA",
       "current_affordability_ratio": 1.67862235855149,
-      "forecast_affordability_ratio": 1.626998106309181,
-      "affordability_change": -0.05162425224230893
+      "forecast_affordability_ratio": 1.6150848332072305,
+      "affordability_change": -0.06353752534425938
     },
     {
       "state": "Michigan",
       "state_code": "MI",
       "current_affordability_ratio": 4.192408523296914,
-      "forecast_affordability_ratio": 4.004783890357876,
-      "affordability_change": -0.18762463293903764
+      "forecast_affordability_ratio": 4.003258117416456,
+      "affordability_change": -0.18915040588045784
     },
     {
       "state": "Minnesota",
       "state_code": "MN",
       "current_affordability_ratio": 3.2569842716135518,
-      "forecast_affordability_ratio": 3.164104700276539,
-      "affordability_change": -0.09287957133701275
+      "forecast_affordability_ratio": 3.1314012495286283,
+      "affordability_change": -0.12558302208492345
     },
     {
       "state": "Mississippi",
       "state_code": "MS",
       "current_affordability_ratio": 6.048823926179542,
-      "forecast_affordability_ratio": 5.864734708083946,
-      "affordability_change": -0.18408921809559597
+      "forecast_affordability_ratio": 5.864784883251094,
+      "affordability_change": -0.18403904292844775
     },
     {
       "state": "Missouri",
       "state_code": "MO",
       "current_affordability_ratio": 4.339277559613636,
-      "forecast_affordability_ratio": 4.156384779435081,
-      "affordability_change": -0.18289278017855537
+      "forecast_affordability_ratio": 4.2906489992745565,
+      "affordability_change": -0.04862856033907992
     },
     {
       "state": "Montana",
       "state_code": "MT",
       "current_affordability_ratio": 2.492119628219029,
-      "forecast_affordability_ratio": 2.477177610923813,
-      "affordability_change": -0.014942017295215937
+      "forecast_affordability_ratio": 2.3793477544344155,
+      "affordability_change": -0.11277187378461351
     },
     {
       "state": "Nebraska",
       "state_code": "NE",
       "current_affordability_ratio": 3.740525495770532,
-      "forecast_affordability_ratio": 3.5899621581243086,
-      "affordability_change": -0.15056333764622343
+      "forecast_affordability_ratio": 3.5838485302755774,
+      "affordability_change": -0.1566769654949547
     },
     {
       "state": "Nevada",
       "state_code": "NV",
       "current_affordability_ratio": 2.7291073721482686,
-      "forecast_affordability_ratio": 2.7292722053668674,
-      "affordability_change": 0.0001648332185988366
+      "forecast_affordability_ratio": 2.729272477068314,
+      "affordability_change": 0.00016510492004551125
     },
     {
       "state": "New Hampshire",
       "state_code": "NH",
       "current_affordability_ratio": 2.0063340714010294,
-      "forecast_affordability_ratio": 1.9686259121727196,
-      "affordability_change": -0.03770815922830972
+      "forecast_affordability_ratio": 1.976435386521695,
+      "affordability_change": -0.029898684879334336
     },
     {
       "state": "New Jersey",
       "state_code": "NJ",
       "current_affordability_ratio": 1.7107016301085542,
-      "forecast_affordability_ratio": 1.640514114251316,
-      "affordability_change": -0.07018751585723826
+      "forecast_affordability_ratio": 1.6417353129181564,
+      "affordability_change": -0.06896631719039781
     },
     {
       "state": "New Mexico",
       "state_code": "NM",
       "current_affordability_ratio": 3.730626832719591,
-      "forecast_affordability_ratio": 3.5848132974264235,
-      "affordability_change": -0.14581353529316754
+      "forecast_affordability_ratio": 3.713388458750472,
+      "affordability_change": -0.017238373969119092
     },
     {
       "state": "New York",
       "state_code": "NY",
       "current_affordability_ratio": 2.123308353084909,
-      "forecast_affordability_ratio": 2.055590345697736,
-      "affordability_change": -0.06771800738717326
+      "forecast_affordability_ratio": 2.06639591062116,
+      "affordability_change": -0.05691244246374927
     },
     {
       "state": "North Carolina",
       "state_code": "NC",
       "current_affordability_ratio": 3.4831388469019884,
-      "forecast_affordability_ratio": 3.330471944146762,
-      "affordability_change": -0.15266690275522654
+      "forecast_affordability_ratio": 3.478342559416539,
+      "affordability_change": -0.004796287485449469
     },
     {
       "state": "North Dakota",
       "state_code": "ND",
       "current_affordability_ratio": 4.012492705839034,
-      "forecast_affordability_ratio": 3.938308288525661,
-      "affordability_change": -0.07418441731337344
+      "forecast_affordability_ratio": 3.9403206527246857,
+      "affordability_change": -0.0721720531143486
+    },
+    {
+      "state": "Ohio",
+      "state_code": "OH",
+      "current_affordability_ratio": 4.475841213348459,
+      "forecast_affordability_ratio": 4.2803243617946585,
+      "affordability_change": -0.19551685155380039
     },
     {
       "state": "Oklahoma",
       "state_code": "OK",
       "current_affordability_ratio": 5.24874696296189,
-      "forecast_affordability_ratio": 5.049832525392652,
-      "affordability_change": -0.198914437569238
+      "forecast_affordability_ratio": 5.182320784907602,
+      "affordability_change": -0.06642617805428852
     },
     {
       "state": "Oregon",
       "state_code": "OR",
       "current_affordability_ratio": 2.309406230688617,
-      "forecast_affordability_ratio": 2.301649859251233,
-      "affordability_change": -0.0077563714373840575
+      "forecast_affordability_ratio": 2.302828198780851,
+      "affordability_change": -0.006578031907765958
     },
     {
       "state": "Pennsylvania",
       "state_code": "PA",
       "current_affordability_ratio": 3.8381784453314105,
-      "forecast_affordability_ratio": 3.6861565777534455,
-      "affordability_change": -0.152021867577965
+      "forecast_affordability_ratio": 3.7270240541609607,
+      "affordability_change": -0.11115439117044978
     },
     {
       "state": "Rhode Island",
       "state_code": "RI",
       "current_affordability_ratio": 2.1679282580585184,
-      "forecast_affordability_ratio": 2.0811715002243245,
-      "affordability_change": -0.0867567578341939
+      "forecast_affordability_ratio": 2.077788256671817,
+      "affordability_change": -0.09014000138670131
     },
     {
       "state": "South Carolina",
       "state_code": "SC",
       "current_affordability_ratio": 3.970073033938577,
-      "forecast_affordability_ratio": 3.816805787672757,
-      "affordability_change": -0.15326724626582022
+      "forecast_affordability_ratio": 3.8168110278288103,
+      "affordability_change": -0.1532620061097667
     },
     {
       "state": "South Dakota",
       "state_code": "SD",
       "current_affordability_ratio": 3.517450772015508,
-      "forecast_affordability_ratio": 3.376810392366199,
-      "affordability_change": -0.1406403796493092
+      "forecast_affordability_ratio": 3.44495420185014,
+      "affordability_change": -0.07249657016536837
     },
     {
       "state": "Tennessee",
       "state_code": "TN",
       "current_affordability_ratio": 3.5975045613311734,
-      "forecast_affordability_ratio": 3.5919568388261007,
-      "affordability_change": -0.0055477225050726275
+      "forecast_affordability_ratio": 3.588634976510252,
+      "affordability_change": -0.008869584820921261
     },
     {
       "state": "Texas",
       "state_code": "TX",
       "current_affordability_ratio": 3.4926286015360546,
-      "forecast_affordability_ratio": 3.436919129950553,
-      "affordability_change": -0.05570947158550155
+      "forecast_affordability_ratio": 3.439154647503744,
+      "affordability_change": -0.05347395403231081
     },
     {
       "state": "Utah",
       "state_code": "UT",
       "current_affordability_ratio": 2.2479623551778047,
-      "forecast_affordability_ratio": 2.2469744890319707,
-      "affordability_change": -0.0009878661458340154
+      "forecast_affordability_ratio": 2.2469981839851205,
+      "affordability_change": -0.0009641711926842156
     },
     {
       "state": "Vermont",
       "state_code": "VT",
       "current_affordability_ratio": 2.615067168582719,
-      "forecast_affordability_ratio": 2.5554141185710906,
-      "affordability_change": -0.05965305001162857
+      "forecast_affordability_ratio": 2.565870620350028,
+      "affordability_change": -0.04919654823269104
     },
     {
       "state": "Virginia",
       "state_code": "VA",
       "current_affordability_ratio": 2.832915259302982,
-      "forecast_affordability_ratio": 2.789202264303152,
-      "affordability_change": -0.043712994999829835
+      "forecast_affordability_ratio": 2.805192601228564,
+      "affordability_change": -0.027722658074417872
     },
     {
       "state": "Washington",
       "state_code": "WA",
       "current_affordability_ratio": 1.9333882376845863,
-      "forecast_affordability_ratio": 1.904458671049165,
-      "affordability_change": -0.028929566635421233
+      "forecast_affordability_ratio": 1.9327719459258397,
+      "affordability_change": -0.0006162917587466676
     },
     {
       "state": "West Virginia",
       "state_code": "WV",
       "current_affordability_ratio": 6.9117687529233525,
-      "forecast_affordability_ratio": 6.6870241720794485,
-      "affordability_change": -0.22474458084390392
+      "forecast_affordability_ratio": 6.680689137390962,
+      "affordability_change": -0.23107961553239065
     },
     {
       "state": "Wisconsin",
       "state_code": "WI",
       "current_affordability_ratio": 3.1796073124863664,
-      "forecast_affordability_ratio": 3.0539200689151413,
-      "affordability_change": -0.12568724357122507
+      "forecast_affordability_ratio": 3.0522633010363927,
+      "affordability_change": -0.12734401144997376
     },
     {
       "state": "Wyoming",
       "state_code": "WY",
       "current_affordability_ratio": 3.3332420793059025,
-      "forecast_affordability_ratio": 3.2194540943611165,
-      "affordability_change": -0.11378798494478604
+      "forecast_affordability_ratio": 3.2194542095493683,
+      "affordability_change": -0.11378786975653421
     }
   ],
   "table_data": [
     {
       "state": "Alabama",
       "current_price": 236452.7966564157,
-      "forecast_price": 244743.57300723327,
+      "forecast_price": 245259.3158852947,
       "current_ratio": 5.226162555102116,
-      "forecast_ratio": 5.049124423375205,
-      "change": -0.17703813172691074,
+      "forecast_ratio": 5.038506885964234,
+      "change": -0.18765566913788145,
       "label": "High Affordability"
     },
     {
       "state": "Alaska",
       "current_price": 387635.5785394409,
-      "forecast_price": 397587.79296216427,
+      "forecast_price": 398222.9363344244,
       "current_ratio": 2.8587959270520944,
-      "forecast_ratio": 2.7872360085624988,
-      "change": -0.07155991848959564,
+      "forecast_ratio": 2.7827905225890923,
+      "change": -0.07600540446300208,
       "label": "Low Affordability"
     },
     {
       "state": "Arizona",
       "current_price": 423329.9659834481,
-      "forecast_price": 423320.07943448727,
+      "forecast_price": 423316.9010380522,
       "current_ratio": 2.8272963666081257,
-      "forecast_ratio": 2.827362397503689,
-      "change": 6.603089556334041e-05,
+      "forecast_ratio": 2.827383626229835,
+      "change": 8.725962170919033e-05,
       "label": "Low Affordability"
     },
     {
       "state": "Arkansas",
       "current_price": 222050.1728766324,
-      "forecast_price": 230508.2179445608,
+      "forecast_price": 230884.8434805308,
       "current_ratio": 5.405583927687261,
-      "forecast_ratio": 5.207236671843029,
-      "change": -0.19834725584423207,
+      "forecast_ratio": 5.198742488020083,
+      "change": -0.20684143966717805,
       "label": "High Affordability"
     },
     {
       "state": "California",
       "current_price": 774581.730954716,
-      "forecast_price": 778293.2236440041,
+      "forecast_price": 775427.5543272864,
       "current_ratio": 1.52772384852821,
-      "forecast_ratio": 1.520438501922575,
-      "change": -0.007285346605635068,
+      "forecast_ratio": 1.5260574329737109,
+      "change": -0.001666415554499201,
       "label": "Low Affordability"
     },
     {
       "state": "Colorado",
       "current_price": 541842.4292537803,
-      "forecast_price": 542170.5769326705,
+      "forecast_price": 542693.4715944339,
       "current_ratio": 2.2540145652810333,
-      "forecast_ratio": 2.252650327383863,
-      "change": -0.0013642378971701064,
+      "forecast_ratio": 2.250479859352347,
+      "change": -0.0035347059286863214,
       "label": "Low Affordability"
     },
     {
       "state": "Connecticut",
       "current_price": 436407.05171967513,
-      "forecast_price": 441561.6802752924,
+      "forecast_price": 437004.2911220332,
       "current_ratio": 2.34961270584414,
-      "forecast_ratio": 2.322184191801357,
-      "change": -0.027428514042783014,
+      "forecast_ratio": 2.346401567380011,
+      "change": -0.0032111384641289042,
       "label": "Low Affordability"
     },
     {
       "state": "Delaware",
       "current_price": 402891.2186127836,
-      "forecast_price": 417811.83262521896,
+      "forecast_price": 414974.1719079466,
       "current_ratio": 3.0007516343451286,
-      "forecast_ratio": 2.8935908184296784,
-      "change": -0.10716081591545024,
+      "forecast_ratio": 2.9133776619326497,
+      "change": -0.0873739724124789,
       "label": "Moderate Affordability"
     },
     {
       "state": "District of Columbia",
       "current_price": 583084.1364314294,
-      "forecast_price": 585559.9029854044,
+      "forecast_price": 584915.4360707081,
       "current_ratio": 2.073416865899912,
-      "forecast_ratio": 2.064650391107373,
-      "change": -0.008766474792539114,
+      "forecast_ratio": 2.0669252479250058,
+      "change": -0.006491617974906383,
       "label": "Low Affordability"
     },
     {
       "state": "Florida",
       "current_price": 375661.5452634734,
-      "forecast_price": 377290.6838015847,
+      "forecast_price": 386329.376091253,
       "current_ratio": 3.097502906884082,
-      "forecast_ratio": 3.084127910961388,
-      "change": -0.013374995922693866,
+      "forecast_ratio": 3.011970614896559,
+      "change": -0.08553229198752321,
       "label": "Moderate Affordability"
     },
     {
       "state": "Georgia",
       "current_price": 332063.4796445723,
-      "forecast_price": 343397.38775655907,
+      "forecast_price": 343419.23492209474,
       "current_ratio": 3.4609004524259155,
-      "forecast_ratio": 3.346672653639233,
-      "change": -0.11422779878668265,
+      "forecast_ratio": 3.3464597496897075,
+      "change": -0.11444070273620799,
       "label": "Moderate Affordability"
     },
     {
       "state": "Hawaii",
       "current_price": 832966.6692952309,
-      "forecast_price": 839610.5833563857,
+      "forecast_price": 844381.6968139127,
       "current_ratio": 1.5035124725243338,
-      "forecast_ratio": 1.4916150431024775,
-      "change": -0.011897429421856343,
+      "forecast_ratio": 1.4831867876909155,
+      "change": -0.020325684833418345,
       "label": "Low Affordability"
     },
     {
       "state": "Idaho",
       "current_price": 473335.47268749424,
-      "forecast_price": 473303.8706945336,
+      "forecast_price": 473303.8230241752,
       "current_ratio": 2.5286067572872324,
-      "forecast_ratio": 2.5287755896545376,
-      "change": 0.00016883236730524942,
+      "forecast_ratio": 2.528775844348526,
+      "change": 0.00016908706129381557,
       "label": "Low Affordability"
     },
     {
       "state": "Illinois",
       "current_price": 285735.83887519623,
-      "forecast_price": 291036.171820636,
+      "forecast_price": 290117.0579518473,
       "current_ratio": 3.5238541597001216,
-      "forecast_ratio": 3.4596779434561347,
-      "change": -0.06417621624398695,
+      "forecast_ratio": 3.470638477806722,
+      "change": -0.05321568189339976,
       "label": "Moderate Affordability"
     },
     {
       "state": "Indiana",
       "current_price": 254121.96772331945,
-      "forecast_price": 264377.02557439427,
+      "forecast_price": 265172.03912120115,
       "current_ratio": 4.591716117471828,
-      "forecast_ratio": 4.4136056545143125,
-      "change": -0.1781104629575152,
+      "forecast_ratio": 4.400373202490973,
+      "change": -0.19134291498085432,
       "label": "Moderate Affordability"
     },
     {
       "state": "Iowa",
       "current_price": 231584.87414161567,
-      "forecast_price": 240550.2928572657,
+      "forecast_price": 240522.27674559847,
       "current_ratio": 4.596570309667775,
-      "forecast_ratio": 4.425254045644145,
-      "change": -0.17131626402362965,
+      "forecast_ratio": 4.425769500649711,
+      "change": -0.17080080901806394,
       "label": "Moderate Affordability"
     },
     {
       "state": "Kansas",
       "current_price": 244761.38879082643,
-      "forecast_price": 255309.16858984705,
+      "forecast_price": 255319.9905635471,
       "current_ratio": 4.399456980238467,
-      "forecast_ratio": 4.2176989034755925,
-      "change": -0.1817580767628746,
+      "forecast_ratio": 4.217520132410673,
+      "change": -0.18193684782779407,
       "label": "Moderate Affordability"
     },
     {
       "state": "Kentucky",
       "current_price": 231894.4384054216,
-      "forecast_price": 242204.39577092952,
+      "forecast_price": 241955.906870222,
       "current_ratio": 5.017855264056951,
-      "forecast_ratio": 4.804259331274437,
-      "change": -0.2135959327825141,
+      "forecast_ratio": 4.809193309268133,
+      "change": -0.208661954788818,
       "label": "High Affordability"
     },
     {
       "state": "Louisiana",
       "current_price": 211634.56763303257,
-      "forecast_price": 213985.9852728217,
+      "forecast_price": 212940.86669536048,
       "current_ratio": 5.712566223169821,
-      "forecast_ratio": 5.6497928178531165,
-      "change": -0.06277340531670461,
+      "forecast_ratio": 5.677522128456482,
+      "change": -0.03504409471333947,
       "label": "High Affordability"
     },
     {
       "state": "Maine",
       "current_price": 407565.820236532,
-      "forecast_price": 427898.5232719729,
+      "forecast_price": 424710.2309384185,
       "current_ratio": 2.7011241297781314,
-      "forecast_ratio": 2.572773243281301,
-      "change": -0.12835088649683035,
+      "forecast_ratio": 2.592087007372652,
+      "change": -0.10903712240547936,
       "label": "Low Affordability"
     },
     {
       "state": "Maryland",
       "current_price": 429704.76743512094,
-      "forecast_price": 439128.0009000983,
+      "forecast_price": 444634.3955663128,
       "current_ratio": 2.60651038278604,
-      "forecast_ratio": 2.550577361399257,
-      "change": -0.05593302138678302,
+      "forecast_ratio": 2.518990768642104,
+      "change": -0.08751961414393605,
       "label": "Low Affordability"
     },
     {
       "state": "Massachusetts",
       "current_price": 656690.4231310291,
-      "forecast_price": 677527.0497487019,
+      "forecast_price": 682524.6601600304,
       "current_ratio": 1.67862235855149,
-      "forecast_ratio": 1.626998106309181,
-      "change": -0.05162425224230893,
+      "forecast_ratio": 1.6150848332072305,
+      "change": -0.06353752534425938,
       "label": "Low Affordability"
     },
     {
       "state": "Michigan",
       "current_price": 259857.02458979108,
-      "forecast_price": 272031.3591332047,
+      "forecast_price": 272135.039204489,
       "current_ratio": 4.192408523296914,
-      "forecast_ratio": 4.004783890357876,
-      "change": -0.18762463293903764,
+      "forecast_ratio": 4.003258117416456,
+      "change": -0.18915040588045784,
       "label": "Moderate Affordability"
     },
     {
       "state": "Minnesota",
       "current_price": 346667.944849682,
-      "forecast_price": 356844.0841257014,
+      "forecast_price": 360570.86073462194,
       "current_ratio": 3.2569842716135518,
-      "forecast_ratio": 3.164104700276539,
-      "change": -0.09287957133701275,
+      "forecast_ratio": 3.1314012495286283,
+      "change": -0.12558302208492345,
       "label": "Moderate Affordability"
     },
     {
       "state": "Mississippi",
       "current_price": 192906.24908895505,
-      "forecast_price": 198961.4182190421,
+      "forecast_price": 198959.7160385505,
       "current_ratio": 6.048823926179542,
-      "forecast_ratio": 5.864734708083946,
-      "change": -0.18408921809559597,
+      "forecast_ratio": 5.864784883251094,
+      "change": -0.18403904292844775,
       "label": "High Affordability"
     },
     {
       "state": "Missouri",
       "current_price": 263040.43328630226,
-      "forecast_price": 274614.96228109905,
+      "forecast_price": 266021.6320708785,
       "current_ratio": 4.339277559613636,
-      "forecast_ratio": 4.156384779435081,
-      "change": -0.18289278017855537,
+      "forecast_ratio": 4.2906489992745565,
+      "change": -0.04862856033907992,
       "label": "Moderate Affordability"
     },
     {
       "state": "Montana",
       "current_price": 466916.8828342886,
-      "forecast_price": 469733.2655223821,
+      "forecast_price": 489046.9357787393,
       "current_ratio": 2.492119628219029,
-      "forecast_ratio": 2.477177610923813,
-      "change": -0.014942017295215937,
+      "forecast_ratio": 2.3793477544344155,
+      "change": -0.11277187378461351,
       "label": "Low Affordability"
     },
     {
       "state": "Nebraska",
       "current_price": 276499.5568264823,
-      "forecast_price": 288095.9732508961,
+      "forecast_price": 288587.4313999487,
       "current_ratio": 3.740525495770532,
-      "forecast_ratio": 3.5899621581243086,
-      "change": -0.15056333764622343,
+      "forecast_ratio": 3.5838485302755774,
+      "change": -0.1566769654949547,
       "label": "Moderate Affordability"
     },
     {
       "state": "Nevada",
       "current_price": 446864.7387869989,
-      "forecast_price": 446837.75058368687,
+      "forecast_price": 446837.7061006005,
       "current_ratio": 2.7291073721482686,
-      "forecast_ratio": 2.7292722053668674,
-      "change": 0.0001648332185988366,
+      "forecast_ratio": 2.729272477068314,
+      "change": 0.00016510492004551125,
       "label": "Low Affordability"
     },
     {
       "state": "New Hampshire",
       "current_price": 507347.2895518423,
-      "forecast_price": 517065.3026391321,
+      "forecast_price": 515022.226379092,
       "current_ratio": 2.0063340714010294,
-      "forecast_ratio": 1.9686259121727196,
-      "change": -0.03770815922830972,
+      "forecast_ratio": 1.976435386521695,
+      "change": -0.029898684879334336,
       "label": "Low Affordability"
     },
     {
       "state": "New Jersey",
       "current_price": 569411.0940851405,
-      "forecast_price": 593772.6950297488,
+      "forecast_price": 593331.0194332803,
       "current_ratio": 1.7107016301085542,
-      "forecast_ratio": 1.640514114251316,
-      "change": -0.07018751585723826,
+      "forecast_ratio": 1.6417353129181564,
+      "change": -0.06896631719039781,
       "label": "Low Affordability"
     },
     {
       "state": "New Mexico",
       "current_price": 316750.23658080393,
-      "forecast_price": 329634.16329295706,
+      "forecast_price": 318220.6615292414,
       "current_ratio": 3.730626832719591,
-      "forecast_ratio": 3.5848132974264235,
-      "change": -0.14581353529316754,
+      "forecast_ratio": 3.713388458750472,
+      "change": -0.017238373969119092,
       "label": "Moderate Affordability"
     },
     {
       "state": "New York",
       "current_price": 507794.2789546018,
-      "forecast_price": 524522.7174809757,
+      "forecast_price": 521779.8915547243,
       "current_ratio": 2.123308353084909,
-      "forecast_ratio": 2.055590345697736,
-      "change": -0.06771800738717326,
+      "forecast_ratio": 2.06639591062116,
+      "change": -0.05691244246374927,
       "label": "Low Affordability"
     },
     {
       "state": "North Carolina",
       "current_price": 336407.71627748833,
-      "forecast_price": 351828.4509266135,
+      "forecast_price": 336871.5889674344,
       "current_ratio": 3.4831388469019884,
-      "forecast_ratio": 3.330471944146762,
-      "change": -0.15266690275522654,
+      "forecast_ratio": 3.478342559416539,
+      "change": -0.004796287485449469,
       "label": "Moderate Affordability"
     },
     {
       "state": "North Dakota",
       "current_price": 284075.6830941456,
-      "forecast_price": 289426.7088339632,
+      "forecast_price": 289278.895496311,
       "current_ratio": 4.012492705839034,
-      "forecast_ratio": 3.938308288525661,
-      "change": -0.07418441731337344,
+      "forecast_ratio": 3.9403206527246857,
+      "change": -0.0721720531143486,
+      "label": "Moderate Affordability"
+    },
+    {
+      "state": "Ohio",
+      "current_price": 242141.3571555418,
+      "forecast_price": 253201.90111912263,
+      "current_ratio": 4.475841213348459,
+      "forecast_ratio": 4.2803243617946585,
+      "change": -0.19551685155380039,
       "label": "Moderate Affordability"
     },
     {
       "state": "Oklahoma",
       "current_price": 220467.87744658228,
-      "forecast_price": 229152.1741284729,
+      "forecast_price": 223293.80025035152,
       "current_ratio": 5.24874696296189,
-      "forecast_ratio": 5.049832525392652,
-      "change": -0.198914437569238,
+      "forecast_ratio": 5.182320784907602,
+      "change": -0.06642617805428852,
       "label": "High Affordability"
     },
     {
       "state": "Oregon",
       "current_price": 499003.6389579733,
-      "forecast_price": 500685.24033483234,
+      "forecast_price": 500429.0435369577,
       "current_ratio": 2.309406230688617,
-      "forecast_ratio": 2.301649859251233,
-      "change": -0.0077563714373840575,
+      "forecast_ratio": 2.302828198780851,
+      "change": -0.006578031907765958,
       "label": "Low Affordability"
     },
     {
       "state": "Pennsylvania",
       "current_price": 282735.92099523573,
-      "forecast_price": 294396.3162699442,
+      "forecast_price": 291168.20871421497,
       "current_ratio": 3.8381784453314105,
-      "forecast_ratio": 3.6861565777534455,
-      "change": -0.152021867577965,
+      "forecast_ratio": 3.7270240541609607,
+      "change": -0.11115439117044978,
       "label": "Moderate Affordability"
     },
     {
       "state": "Rhode Island",
       "current_price": 499271.7086138851,
-      "forecast_price": 520084.5991964296,
+      "forecast_price": 520931.4481769934,
       "current_ratio": 2.1679282580585184,
-      "forecast_ratio": 2.0811715002243245,
-      "change": -0.0867567578341939,
+      "forecast_ratio": 2.077788256671817,
+      "change": -0.09014000138670131,
       "label": "Low Affordability"
     },
     {
       "state": "South Carolina",
       "current_price": 304083.413471387,
-      "forecast_price": 316294.1546016784,
+      "forecast_price": 316293.7203567769,
       "current_ratio": 3.970073033938577,
-      "forecast_ratio": 3.816805787672757,
-      "change": -0.15326724626582022,
+      "forecast_ratio": 3.8168110278288103,
+      "change": -0.1532620061097667,
       "label": "Moderate Affordability"
     },
     {
       "state": "South Dakota",
       "current_price": 317148.2100401483,
-      "forecast_price": 330357.0786120939,
+      "forecast_price": 323822.3647936856,
       "current_ratio": 3.517450772015508,
-      "forecast_ratio": 3.376810392366199,
-      "change": -0.1406403796493092,
+      "forecast_ratio": 3.44495420185014,
+      "change": -0.07249657016536837,
       "label": "Moderate Affordability"
     },
     {
       "state": "Tennessee",
       "current_price": 333650.9586517257,
-      "forecast_price": 334166.2774640632,
+      "forecast_price": 334475.6024223277,
       "current_ratio": 3.5975045613311734,
-      "forecast_ratio": 3.5919568388261007,
-      "change": -0.0055477225050726275,
+      "forecast_ratio": 3.588634976510252,
+      "change": -0.008869584820921261,
       "label": "Moderate Affordability"
     },
     {
       "state": "Texas",
       "current_price": 300957.46411079913,
-      "forecast_price": 305835.7229994703,
+      "forecast_price": 305636.9238184988,
       "current_ratio": 3.4926286015360546,
-      "forecast_ratio": 3.436919129950553,
-      "change": -0.05570947158550155,
+      "forecast_ratio": 3.439154647503744,
+      "change": -0.05347395403231081,
       "label": "Moderate Affordability"
     },
     {
       "state": "Utah",
       "current_price": 537809.9325955954,
-      "forecast_price": 538046.3768578235,
+      "forecast_price": 538040.7030732236,
       "current_ratio": 2.2479623551778047,
-      "forecast_ratio": 2.2469744890319707,
-      "change": -0.0009878661458340154,
+      "forecast_ratio": 2.2469981839851205,
+      "change": -0.0009641711926842156,
       "label": "Low Affordability"
     },
     {
       "state": "Vermont",
       "current_price": 394037.7506473989,
-      "forecast_price": 403236.08506803785,
+      "forecast_price": 401592.807029229,
       "current_ratio": 2.615067168582719,
-      "forecast_ratio": 2.5554141185710906,
-      "change": -0.05965305001162857,
+      "forecast_ratio": 2.565870620350028,
+      "change": -0.04919654823269104,
       "label": "Low Affordability"
     },
     {
       "state": "Virginia",
       "current_price": 412467.09496904846,
-      "forecast_price": 418931.370540143,
+      "forecast_price": 416543.35135007824,
       "current_ratio": 2.832915259302982,
-      "forecast_ratio": 2.789202264303152,
-      "change": -0.043712994999829835,
+      "forecast_ratio": 2.805192601228564,
+      "change": -0.027722658074417872,
       "label": "Low Affordability"
     },
     {
       "state": "Washington",
       "current_price": 601016.3162684125,
-      "forecast_price": 610146.0190205778,
+      "forecast_price": 601207.958848578,
       "current_ratio": 1.9333882376845863,
-      "forecast_ratio": 1.904458671049165,
-      "change": -0.028929566635421233,
+      "forecast_ratio": 1.9327719459258397,
+      "change": -0.0006162917587466676,
       "label": "Low Affordability"
     },
     {
       "state": "West Virginia",
       "current_price": 174411.9775198357,
-      "forecast_price": 180273.79972552136,
+      "forecast_price": 180444.74627777064,
       "current_ratio": 6.9117687529233525,
-      "forecast_ratio": 6.6870241720794485,
-      "change": -0.22474458084390392,
+      "forecast_ratio": 6.680689137390962,
+      "change": -0.23107961553239065,
       "label": "High Affordability"
     },
     {
       "state": "Wisconsin",
       "current_price": 330171.1889820858,
-      "forecast_price": 343759.72624348634,
+      "forecast_price": 343946.3189506929,
       "current_ratio": 3.1796073124863664,
-      "forecast_ratio": 3.0539200689151413,
-      "change": -0.12568724357122507,
+      "forecast_ratio": 3.0522633010363927,
+      "change": -0.12734401144997376,
       "label": "Moderate Affordability"
     },
     {
       "state": "Wyoming",
       "current_price": 363227.33776880655,
-      "forecast_price": 376065.1996019549,
+      "forecast_price": 376065.1861467882,
       "current_ratio": 3.3332420793059025,
-      "forecast_ratio": 3.2194540943611165,
-      "change": -0.11378798494478604,
+      "forecast_ratio": 3.2194542095493683,
+      "change": -0.11378786975653421,
       "label": "Moderate Affordability"
     }
   ],
@@ -1493,63 +1509,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 237149.44970890955,
-          "affordability_ratio": 5.210810117635742
+          "home_price": 237189.2056487045,
+          "affordability_ratio": 5.209936719317496
         },
         {
           "date": "2026-05-31",
-          "home_price": 237843.28833574563,
-          "affordability_ratio": 5.19560909446615
+          "home_price": 237923.69924039405,
+          "affordability_ratio": 5.193853138128805
         },
         {
           "date": "2026-06-30",
-          "home_price": 238536.41158487092,
-          "affordability_ratio": 5.180512038914695
+          "home_price": 238658.00539707107,
+          "affordability_ratio": 5.177872621029205
         },
         {
           "date": "2026-07-31",
-          "home_price": 239228.84504028963,
-          "affordability_ratio": 5.165517359442243
+          "home_price": 239392.1457927514,
+          "affordability_ratio": 5.161993714717569
         },
         {
           "date": "2026-08-31",
-          "home_price": 239920.58968329983,
-          "affordability_ratio": 5.150624019247944
+          "home_price": 240126.1207356597,
+          "affordability_ratio": 5.146215447736678
         },
         {
           "date": "2026-09-30",
-          "home_price": 240611.64620261,
-          "affordability_ratio": 5.135831001689601
+          "home_price": 240859.93026647496,
+          "affordability_ratio": 5.130536866666758
         },
         {
           "date": "2026-10-31",
-          "home_price": 241302.01528278328,
-          "affordability_ratio": 5.121137303750914
+          "home_price": 241593.57442251767,
+          "affordability_ratio": 5.114957030164116
         },
         {
           "date": "2026-11-30",
-          "home_price": 241991.69760766087,
-          "affordability_ratio": 5.106541935742071
+          "home_price": 242327.053241058,
+          "affordability_ratio": 5.09947500870101
         },
         {
           "date": "2026-12-31",
-          "home_price": 242680.6938604032,
-          "affordability_ratio": 5.092043921078318
+          "home_price": 243060.36675935725,
+          "affordability_ratio": 5.084089884379973
         },
         {
           "date": "2027-01-31",
-          "home_price": 243369.00472349115,
-          "affordability_ratio": 5.077642296063739
+          "home_price": 243793.5150146682,
+          "affordability_ratio": 5.068800750752473
         },
         {
           "date": "2027-02-28",
-          "home_price": 244056.63087872663,
-          "affordability_ratio": 5.063336109679323
+          "home_price": 244526.4980442353,
+          "affordability_ratio": 5.053606712640962
         },
         {
           "date": "2027-03-31",
-          "home_price": 244743.57300723327,
-          "affordability_ratio": 5.049124423375205
+          "home_price": 245259.3158852947,
+          "affordability_ratio": 5.038506885964234
         }
       ]
     },
@@ -2230,63 +2246,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 388474.8091500423,
-          "affordability_ratio": 2.8526200078034463
+          "home_price": 388523.524903468,
+          "affordability_ratio": 2.8522623266747376
         },
         {
           "date": "2026-05-31",
-          "home_price": 389303.3582024698,
-          "affordability_ratio": 2.8465488153654603
+          "home_price": 389405.32795010257,
+          "affordability_ratio": 2.845803417592258
         },
         {
           "date": "2026-06-30",
-          "home_price": 390131.8033413143,
-          "affordability_ratio": 2.8405041670994744
+          "home_price": 390287.09398743504,
+          "affordability_ratio": 2.839373963886985
         },
         {
           "date": "2026-07-31",
-          "home_price": 390960.24730623537,
-          "affordability_ratio": 2.834485144575367
+          "home_price": 391168.8587018447,
+          "affordability_ratio": 2.8329735060880754
         },
         {
           "date": "2026-08-31",
-          "home_price": 391788.6910951336,
-          "affordability_ratio": 2.828491577976536
+          "home_price": 392050.6223018907,
+          "affordability_ratio": 2.826601846982176
         },
         {
           "date": "2026-09-30",
-          "home_price": 392617.1347177014,
-          "affordability_ratio": 2.8225233060850243
+          "home_price": 392932.3847887932,
+          "affordability_ratio": 2.82025879262839
         },
         {
           "date": "2026-10-31",
-          "home_price": 393445.5781740331,
-          "affordability_ratio": 2.816580169110092
+          "home_price": 393814.1461625608,
+          "affordability_ratio": 2.813944150831999
         },
         {
           "date": "2026-11-30",
-          "home_price": 394274.0214641296,
-          "affordability_ratio": 2.8106620086047323
+          "home_price": 394695.90642319486,
+          "affordability_ratio": 2.807657731116293
         },
         {
           "date": "2026-12-31",
-          "home_price": 395102.4645879909,
-          "affordability_ratio": 2.8047686674509262
+          "home_price": 395577.6655706969,
+          "affordability_ratio": 2.801399344703362
         },
         {
           "date": "2027-01-31",
-          "home_price": 395930.9075456171,
-          "affordability_ratio": 2.798899989845724
+          "home_price": 396459.4236050682,
+          "affordability_ratio": 2.795168804495203
         },
         {
           "date": "2027-02-28",
-          "home_price": 396759.3503370082,
-          "affordability_ratio": 2.7930558212875214
+          "home_price": 397341.1805263102,
+          "affordability_ratio": 2.7889659250550736
         },
         {
           "date": "2027-03-31",
-          "home_price": 397587.79296216427,
-          "affordability_ratio": 2.7872360085624988
+          "home_price": 398222.9363344244,
+          "affordability_ratio": 2.7827905225890923
         }
       ]
     },
@@ -2972,63 +2988,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 423321.69449885015,
-          "affordability_ratio": 2.827351610501019
+          "home_price": 423285.97689697705,
+          "affordability_ratio": 2.827590187313602
         },
         {
           "date": "2026-05-31",
-          "home_price": 423319.810372285,
-          "affordability_ratio": 2.8273641945761026
+          "home_price": 423318.0389560089,
+          "affordability_ratio": 2.8273760259617085
         },
         {
           "date": "2026-06-30",
-          "home_price": 423321.0542649491,
-          "affordability_ratio": 2.827355886608557
+          "home_price": 423285.59325481614,
+          "affordability_ratio": 2.827592750081687
         },
         {
           "date": "2026-07-31",
-          "home_price": 423319.8551610846,
-          "affordability_ratio": 2.8273638954305587
+          "home_price": 423317.7794449478,
+          "affordability_ratio": 2.827377759258509
         },
         {
           "date": "2026-08-31",
-          "home_price": 423320.98163970566,
-          "affordability_ratio": 2.8273563716717085
+          "home_price": 423285.8173971956,
+          "affordability_ratio": 2.827591252787564
         },
         {
           "date": "2026-09-30",
-          "home_price": 423319.9218159581,
-          "affordability_ratio": 2.827363450241063
+          "home_price": 423317.5551178319,
+          "affordability_ratio": 2.827379257560412
         },
         {
           "date": "2026-10-31",
-          "home_price": 423320.9188427904,
-          "affordability_ratio": 2.827356791091706
+          "home_price": 423286.0400584272,
+          "affordability_ratio": 2.82758976538923
         },
         {
           "date": "2026-11-30",
-          "home_price": 423319.9808873093,
-          "affordability_ratio": 2.827363055702211
+          "home_price": 423317.3340139275,
+          "affordability_ratio": 2.827380734335736
         },
         {
           "date": "2026-12-31",
-          "home_price": 423320.8632710119,
-          "affordability_ratio": 2.827357162255187
+          "home_price": 423286.259610856,
+          "affordability_ratio": 2.827588298759528
         },
         {
           "date": "2027-01-31",
-          "home_price": 423320.0331665693,
-          "affordability_ratio": 2.8273627065279774
+          "home_price": 423317.1160018235,
+          "affordability_ratio": 2.827382190462123
         },
         {
           "date": "2027-02-28",
-          "home_price": 423320.8140891803,
-          "affordability_ratio": 2.827357490740344
+          "home_price": 423286.4760934278,
+          "affordability_ratio": 2.827586852638233
         },
         {
           "date": "2027-03-31",
-          "home_price": 423320.07943448727,
-          "affordability_ratio": 2.827362397503689
+          "home_price": 423316.9010380522,
+          "affordability_ratio": 2.827383626229835
         }
       ]
     },
@@ -3714,63 +3730,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 222761.2955625001,
-          "affordability_ratio": 5.388327638386046
+          "home_price": 222795.46284112005,
+          "affordability_ratio": 5.387501299782159
         },
         {
           "date": "2026-05-31",
-          "home_price": 223465.7051765941,
-          "affordability_ratio": 5.371342527452052
+          "home_price": 223531.1895821977,
+          "affordability_ratio": 5.369768969984028
         },
         {
           "date": "2026-06-30",
-          "home_price": 224169.9627685593,
-          "affordability_ratio": 5.354467792285552
+          "home_price": 224266.56890937372,
+          "affordability_ratio": 5.352161276106866
         },
         {
           "date": "2026-07-31",
-          "home_price": 224874.21624225797,
-          "affordability_ratio": 5.337698850938972
+          "home_price": 225001.93515477784,
+          "affordability_ratio": 5.334668987697432
         },
         {
           "date": "2026-08-31",
-          "home_price": 225578.4689318451,
-          "affordability_ratio": 5.321034632985104
+          "home_price": 225737.3004473473,
+          "affordability_ratio": 5.317290688173492
         },
         {
           "date": "2026-09-30",
-          "home_price": 226282.7209124824,
-          "affordability_ratio": 5.304474158706696
+          "home_price": 226472.66522709737,
+          "affordability_ratio": 5.300025256639605
         },
         {
           "date": "2026-10-31",
-          "home_price": 226986.9721858648,
-          "affordability_ratio": 5.288016462280689
+          "home_price": 227208.02950999123,
+          "affordability_ratio": 5.282871596707016
         },
         {
           "date": "2026-11-30",
-          "home_price": 227691.2227520313,
-          "affordability_ratio": 5.271660589873984
+          "home_price": 227943.39329660835,
+          "affordability_ratio": 5.265828626496813
         },
         {
           "date": "2026-12-31",
-          "home_price": 228395.47261098344,
-          "affordability_ratio": 5.255405599420713
+          "home_price": 228678.7565869701,
+          "affordability_ratio": 5.248895278060537
         },
         {
           "date": "2027-01-31",
-          "home_price": 229099.7217627219,
-          "affordability_ratio": 5.239250560440494
+          "home_price": 229414.11938107747,
+          "affordability_ratio": 5.232070497144416
         },
         {
           "date": "2027-02-28",
-          "home_price": 229803.97020724745,
-          "affordability_ratio": 5.223194553860877
+          "home_price": 230149.48167893093,
+          "affordability_ratio": 5.215353242970109
         },
         {
           "date": "2027-03-31",
-          "home_price": 230508.2179445608,
-          "affordability_ratio": 5.207236671843029
+          "home_price": 230884.8434805308,
+          "affordability_ratio": 5.198742488020083
         }
       ]
     },
@@ -4456,63 +4472,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 774892.4795379998,
-          "affordability_ratio": 1.5271111983423904
+          "home_price": 774633.3327687051,
+          "affordability_ratio": 1.5276220799642668
         },
         {
           "date": "2026-05-31",
-          "home_price": 775201.6380189662,
-          "affordability_ratio": 1.5265021705034498
+          "home_price": 774705.0375754896,
+          "affordability_ratio": 1.5274806869943354
         },
         {
           "date": "2026-06-30",
-          "home_price": 775510.7985510993,
-          "affordability_ratio": 1.5258936242082637
+          "home_price": 774777.2765143254,
+          "affordability_ratio": 1.527338267247054
         },
         {
           "date": "2026-07-31",
-          "home_price": 775819.9586424187,
-          "affordability_ratio": 1.525285563785289
+          "home_price": 774849.5295714685,
+          "affordability_ratio": 1.5271958462286646
         },
         {
           "date": "2026-08-31",
-          "home_price": 776129.1182968257,
-          "affordability_ratio": 1.524677988645206
+          "home_price": 774921.7829283171,
+          "affordability_ratio": 1.5270534511781106
         },
         {
           "date": "2026-09-30",
-          "home_price": 776438.2775143146,
-          "affordability_ratio": 1.524070898207314
+          "home_price": 774994.0362176622,
+          "affordability_ratio": 1.526911082811779
         },
         {
           "date": "2026-10-31",
-          "home_price": 776747.4362948862,
-          "affordability_ratio": 1.5234642918918275
+          "home_price": 775066.2894297459,
+          "affordability_ratio": 1.52676874114139
         },
         {
           "date": "2026-11-30",
-          "home_price": 777056.5946385409,
-          "affordability_ratio": 1.5228581691198857
+          "home_price": 775138.542564309,
+          "affordability_ratio": 1.5266264261599474
         },
         {
           "date": "2026-12-31",
-          "home_price": 777365.7525452795,
-          "affordability_ratio": 1.5222525293135485
+          "home_price": 775210.7956213446,
+          "affordability_ratio": 1.5264841378599594
         },
         {
           "date": "2027-01-31",
-          "home_price": 777674.9100151024,
-          "affordability_ratio": 1.5216473718957977
+          "home_price": 775283.0486008526,
+          "affordability_ratio": 1.5263418762339234
         },
         {
           "date": "2027-02-28",
-          "home_price": 777984.0670480104,
-          "affordability_ratio": 1.521042696290534
+          "home_price": 775355.3015028333,
+          "affordability_ratio": 1.5261996412743393
         },
         {
           "date": "2027-03-31",
-          "home_price": 778293.2236440041,
-          "affordability_ratio": 1.520438501922575
+          "home_price": 775427.5543272864,
+          "affordability_ratio": 1.5260574329737109
         }
       ]
     },
@@ -5198,63 +5214,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 541792.0858227893,
-          "affordability_ratio": 2.2542240087736367
+          "home_price": 541898.156278134,
+          "affordability_ratio": 2.253782769835491
         },
         {
           "date": "2026-05-31",
-          "home_price": 541823.4532733442,
-          "affordability_ratio": 2.2540935063752863
+          "home_price": 541970.3444406231,
+          "affordability_ratio": 2.253482575482658
         },
         {
           "date": "2026-06-30",
-          "home_price": 541858.0470157325,
-          "affordability_ratio": 2.253949598703327
+          "home_price": 542042.6570042406,
+          "affordability_ratio": 2.25318194397332
         },
         {
           "date": "2026-07-31",
-          "home_price": 541892.7681055488,
-          "affordability_ratio": 2.253805179749865
+          "home_price": 542114.9703542925,
+          "affordability_ratio": 2.252881389398081
         },
         {
           "date": "2026-08-31",
-          "home_price": 541927.4941817479,
-          "affordability_ratio": 2.253660758565758
+          "home_price": 542187.2835554278,
+          "affordability_ratio": 2.252580915613493
         },
         {
           "date": "2026-09-30",
-          "home_price": 541962.2204129345,
-          "affordability_ratio": 2.253516355244696
+          "home_price": 542259.5966005692,
+          "affordability_ratio": 2.252280522616382
         },
         {
           "date": "2026-10-31",
-          "home_price": 541996.9466083425,
-          "affordability_ratio": 2.2533719705764845
+          "home_price": 542331.9094896634,
+          "affordability_ratio": 2.2519802103743927
         },
         {
           "date": "2026-11-30",
-          "home_price": 542031.6727604392,
-          "affordability_ratio": 2.253227604588825
+          "home_price": 542404.2222227105,
+          "affordability_ratio": 2.2516799788549684
         },
         {
           "date": "2026-12-31",
-          "home_price": 542066.3988689276,
-          "affordability_ratio": 2.253083257279328
+          "home_price": 542476.5347997107,
+          "affordability_ratio": 2.2513798280255672
         },
         {
           "date": "2027-01-31",
-          "home_price": 542101.1249337958,
-          "affordability_ratio": 2.252938928644416
+          "home_price": 542548.8472206645,
+          "affordability_ratio": 2.251079757853665
         },
         {
           "date": "2027-02-28",
-          "home_price": 542135.8509550435,
-          "affordability_ratio": 2.2527946186804684
+          "home_price": 542621.1594855721,
+          "affordability_ratio": 2.2507797683067547
         },
         {
           "date": "2027-03-31",
-          "home_price": 542170.5769326705,
-          "affordability_ratio": 2.252650327383863
+          "home_price": 542693.4715944339,
+          "affordability_ratio": 2.250479859352347
         }
       ]
     },
@@ -5940,63 +5956,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 436914.6652747599,
-          "affordability_ratio": 2.3468828930145893
+          "home_price": 436476.48778609,
+          "affordability_ratio": 2.3492389219898944
         },
         {
           "date": "2026-05-31",
-          "home_price": 437342.1521823163,
-          "affordability_ratio": 2.344588895728195
+          "home_price": 436524.7174332875,
+          "affordability_ratio": 2.348979365177038
         },
         {
           "date": "2026-06-30",
-          "home_price": 437764.4301855141,
-          "affordability_ratio": 2.3423272493975693
+          "home_price": 436572.6779216575,
+          "affordability_ratio": 2.348721313761495
         },
         {
           "date": "2026-07-31",
-          "home_price": 438186.3692141906,
-          "affordability_ratio": 2.340071772381646
+          "home_price": 436620.6349916436,
+          "affordability_ratio": 2.348463337423698
         },
         {
           "date": "2026-08-31",
-          "home_price": 438608.28583176096,
-          "affordability_ratio": 2.3378207543344085
+          "home_price": 436668.5920160836,
+          "affordability_ratio": 2.3482054179952603
         },
         {
           "date": "2026-09-30",
-          "home_price": 439030.2006160161,
-          "affordability_ratio": 2.3355740725849343
+          "home_price": 436716.5490377863,
+          "affordability_ratio": 2.3479475552272
         },
         {
           "date": "2026-10-31",
-          "home_price": 439452.1149045888,
-          "affordability_ratio": 2.3333317075130138
+          "home_price": 436764.50605729496,
+          "affordability_ratio": 2.347689749097924
         },
         {
           "date": "2026-11-30",
-          "home_price": 439874.0287844304,
-          "affordability_ratio": 2.3310936462289806
+          "home_price": 436812.46307461656,
+          "affordability_ratio": 2.347431999588739
         },
         {
           "date": "2026-12-31",
-          "home_price": 440295.94226119336,
-          "affordability_ratio": 2.3288598763243806
+          "home_price": 436860.4200897512,
+          "affordability_ratio": 2.347174306680994
         },
         {
           "date": "2027-01-31",
-          "home_price": 440717.8553352456,
-          "affordability_ratio": 2.3266303854663137
+          "home_price": 436908.3771026989,
+          "affordability_ratio": 2.346916670356045
         },
         {
           "date": "2027-02-28",
-          "home_price": 441139.76800661127,
-          "affordability_ratio": 2.3244051613709016
+          "home_price": 436956.3341134595,
+          "affordability_ratio": 2.34665909059526
         },
         {
           "date": "2027-03-31",
-          "home_price": 441561.6802752924,
-          "affordability_ratio": 2.322184191801357
+          "home_price": 437004.2911220332,
+          "affordability_ratio": 2.346401567380011
         }
       ]
     },
@@ -6682,63 +6698,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 404098.4333906026,
-          "affordability_ratio": 2.9917871063533945
+          "home_price": 403846.9986892608,
+          "affordability_ratio": 2.993649789745882
         },
         {
           "date": "2026-05-31",
-          "home_price": 405343.3953826202,
-          "affordability_ratio": 2.9825982031220923
+          "home_price": 404853.7697311066,
+          "affordability_ratio": 2.9862053242546858
         },
         {
           "date": "2026-06-30",
-          "home_price": 406590.1597241696,
-          "affordability_ratio": 2.973452391311633
+          "home_price": 405865.36431514646,
+          "affordability_ratio": 2.9787623902217595
         },
         {
           "date": "2026-07-31",
-          "home_price": 407837.0098156364,
-          "affordability_ratio": 2.964361874029361
+          "home_price": 406877.4146807061,
+          "affordability_ratio": 2.971353137564409
         },
         {
           "date": "2026-08-31",
-          "home_price": 409083.86367829394,
-          "affordability_ratio": 2.955326743629168
+          "home_price": 407889.50760712055,
+          "affordability_ratio": 2.963980343127869
         },
         {
           "date": "2026-09-30",
-          "home_price": 410330.7173971284,
-          "affordability_ratio": 2.946346523566582
+          "home_price": 408901.6040008294,
+          "affordability_ratio": 2.956644021169354
         },
         {
           "date": "2026-10-31",
-          "home_price": 411577.57078517246,
-          "affordability_ratio": 2.937420716122186
+          "home_price": 409913.70016330905,
+          "affordability_ratio": 2.9493439283291982
         },
         {
           "date": "2026-11-30",
-          "home_price": 412824.4238334975,
-          "affordability_ratio": 2.928548828310657
+          "home_price": 410925.7957446537,
+          "affordability_ratio": 2.9420797994070447
         },
         {
           "date": "2026-12-31",
-          "home_price": 414071.276541677,
-          "affordability_ratio": 2.919730373024136
+          "home_price": 411937.89071176026,
+          "affordability_ratio": 2.9348513695273346
         },
         {
           "date": "2027-01-31",
-          "home_price": 415318.1289096909,
-          "affordability_ratio": 2.9109648690016554
+          "home_price": 412949.98506149714,
+          "affordability_ratio": 2.9276583761967405
         },
         {
           "date": "2027-02-28",
-          "home_price": 416564.9809375382,
-          "affordability_ratio": 2.902251840744364
+          "home_price": 413962.0787935685,
+          "affordability_ratio": 2.9205005594691067
         },
         {
           "date": "2027-03-31",
-          "home_price": 417811.83262521896,
-          "affordability_ratio": 2.8935908184296784
+          "home_price": 414974.1719079466,
+          "affordability_ratio": 2.9133776619326497
         }
       ]
     },
@@ -7424,63 +7440,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 583272.3156494044,
-          "affordability_ratio": 2.0727479262744697
+          "home_price": 583219.7322824684,
+          "affordability_ratio": 2.07293480620795
         },
         {
           "date": "2026-05-31",
-          "home_price": 583480.253464264,
-          "affordability_ratio": 2.072009250591813
+          "home_price": 583373.8244316839,
+          "affordability_ratio": 2.072387261964285
         },
         {
           "date": "2026-06-30",
-          "home_price": 583688.3412838416,
-          "affordability_ratio": 2.07127056890742
+          "home_price": 583528.0592485226,
+          "affordability_ratio": 2.071839500353336
         },
         {
           "date": "2026-07-31",
-          "home_price": 583896.4030631152,
-          "affordability_ratio": 2.0705325060632878
+          "home_price": 583682.2787879774,
+          "affordability_ratio": 2.071292082442633
         },
         {
           "date": "2026-08-31",
-          "home_price": 584104.4372251651,
-          "affordability_ratio": 2.0697950668872687
+          "home_price": 583836.4816925942,
+          "affordability_ratio": 2.0707450127314413
         },
         {
           "date": "2026-09-30",
-          "home_price": 584312.4437594702,
-          "affordability_ratio": 2.0690582506459183
+          "home_price": 583990.6679524727,
+          "affordability_ratio": 2.0701982909322827
         },
         {
           "date": "2026-10-31",
-          "home_price": 584520.4226695724,
-          "affordability_ratio": 2.068322056557195
+          "home_price": 584144.8375693087,
+          "affordability_ratio": 2.069651916716916
         },
         {
           "date": "2026-11-30",
-          "home_price": 584728.373959139,
-          "affordability_ratio": 2.0675864838399214
+          "home_price": 584298.9905448979,
+          "affordability_ratio": 2.0691058897571595
         },
         {
           "date": "2026-12-31",
-          "home_price": 584936.297631838,
-          "affordability_ratio": 2.066851531714223
+          "home_price": 584453.1268810363,
+          "affordability_ratio": 2.068560209725244
         },
         {
           "date": "2027-01-31",
-          "home_price": 585144.1936913372,
-          "affordability_ratio": 2.066117199401528
+          "home_price": 584607.2465795203,
+          "affordability_ratio": 2.068014876293809
         },
         {
           "date": "2027-02-28",
-          "home_price": 585352.0621413038,
-          "affordability_ratio": 2.0653834861245683
+          "home_price": 584761.3496421457,
+          "affordability_ratio": 2.067469889135908
         },
         {
           "date": "2027-03-31",
-          "home_price": 585559.9029854044,
-          "affordability_ratio": 2.064650391107373
+          "home_price": 584915.4360707081,
+          "affordability_ratio": 2.0669252479250058
         }
       ]
     },
@@ -8166,63 +8182,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 375795.75053124473,
-          "affordability_ratio": 3.0963967176670595
+          "home_price": 376529.19576054753,
+          "affordability_ratio": 3.09036521353359
         },
         {
           "date": "2026-05-31",
-          "home_price": 375931.6969370717,
-          "affordability_ratio": 3.095276982331595
+          "home_price": 377419.5059907342,
+          "affordability_ratio": 3.083075225281924
         },
         {
           "date": "2026-06-30",
-          "home_price": 376067.7011959783,
-          "affordability_ratio": 3.0941575805569848
+          "home_price": 378310.48066943575,
+          "affordability_ratio": 3.0758141471500213
         },
         {
           "date": "2026-07-31",
-          "home_price": 376203.6850062576,
-          "affordability_ratio": 3.093039156272008
+          "home_price": 379201.4736294725,
+          "affordability_ratio": 3.06858704245219
         },
         {
           "date": "2026-08-31",
-          "home_price": 376339.6447294704,
-          "affordability_ratio": 3.0919217381273545
+          "home_price": 380092.46588804905,
+          "affordability_ratio": 3.0613938262088607
         },
         {
           "date": "2026-09-30",
-          "home_price": 376475.580200486,
-          "affordability_ratio": 3.090805326174176
+          "home_price": 380983.4568874996,
+          "affordability_ratio": 3.0542342650898298
         },
         {
           "date": "2026-10-31",
-          "home_price": 376611.4914157502,
-          "affordability_ratio": 3.089689919136419
+          "home_price": 381874.4466114429,
+          "affordability_ratio": 3.0471081235821758
         },
         {
           "date": "2026-11-30",
-          "home_price": 376747.3783792245,
-          "affordability_ratio": 3.088575515678604
+          "home_price": 382765.4350593997,
+          "affordability_ratio": 3.040015168239001
         },
         {
           "date": "2026-12-31",
-          "home_price": 376883.2410952192,
-          "affordability_ratio": 3.0874621144647545
+          "home_price": 383656.4222313574,
+          "affordability_ratio": 3.032955167778942
         },
         {
           "date": "2027-01-31",
-          "home_price": 377019.0795680604,
-          "affordability_ratio": 3.086349714161129
+          "home_price": 384547.4081273177,
+          "affordability_ratio": 3.025927893064672
         },
         {
           "date": "2027-02-28",
-          "home_price": 377154.8938020738,
-          "affordability_ratio": 3.085238313436348
+          "home_price": 385438.3927472823,
+          "affordability_ratio": 3.018933117078228
         },
         {
           "date": "2027-03-31",
-          "home_price": 377290.6838015847,
-          "affordability_ratio": 3.084127910961388
+          "home_price": 386329.376091253,
+          "affordability_ratio": 3.011970614896559
         }
       ]
     },
@@ -8908,63 +8924,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 333010.9490307393,
-          "affordability_ratio": 3.451053637368364
+          "home_price": 333012.65257509134,
+          "affordability_ratio": 3.4510359833156223
         },
         {
           "date": "2026-05-31",
-          "home_price": 333973.38459721813,
-          "affordability_ratio": 3.4411084833063565
+          "home_price": 333976.8488024224,
+          "affordability_ratio": 3.441072790096007
         },
         {
           "date": "2026-06-30",
-          "home_price": 334932.425810373,
-          "affordability_ratio": 3.431255257401332
+          "home_price": 334937.66602618806,
+          "affordability_ratio": 3.431201574224165
         },
         {
           "date": "2026-07-31",
-          "home_price": 335887.735916105,
-          "affordability_ratio": 3.421496303821794
+          "home_price": 335894.7663640739,
+          "affordability_ratio": 3.4214246901673144
         },
         {
           "date": "2026-08-31",
-          "home_price": 336839.322764102,
-          "affordability_ratio": 3.4118304166668443
+          "home_price": 336848.157505925,
+          "affordability_ratio": 3.411740932309566
         },
         {
           "date": "2026-09-30",
-          "home_price": 337787.200738044,
-          "affordability_ratio": 3.402256344897051
+          "home_price": 337797.85369857505,
+          "affordability_ratio": 3.4021490496547577
         },
         {
           "date": "2026-10-31",
-          "home_price": 338731.38429108064,
-          "affordability_ratio": 3.3927728584737613
+          "home_price": 338743.86925966834,
+          "affordability_ratio": 3.3926478121883314
         },
         {
           "date": "2026-11-30",
-          "home_price": 339671.88782243,
-          "affordability_ratio": 3.3833787491321936
+          "home_price": 339686.21845377097,
+          "affordability_ratio": 3.3832360116559386
         },
         {
           "date": "2026-12-31",
-          "home_price": 340608.7256752341,
-          "affordability_ratio": 3.3740728299245277
+          "home_price": 340624.9154902116,
+          "affordability_ratio": 3.3739124611072357
         },
         {
           "date": "2027-01-31",
-          "home_price": 341541.9121367324,
-          "affordability_ratio": 3.3648539347520527
+          "home_price": 341559.9745232504,
+          "affordability_ratio": 3.364675994428598
         },
         {
           "date": "2027-02-28",
-          "home_price": 342471.4614384789,
-          "affordability_ratio": 3.35572091790916
+          "home_price": 342491.4096522912,
+          "affordability_ratio": 3.3555254658876543
         },
         {
           "date": "2027-03-31",
-          "home_price": 343397.38775655907,
-          "affordability_ratio": 3.346672653639233
+          "home_price": 343419.23492209474,
+          "affordability_ratio": 3.3464597496897075
         }
       ]
     },
@@ -9650,63 +9666,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 833532.0407662053,
-          "affordability_ratio": 1.502492664026705
+          "home_price": 833942.9697491423,
+          "affordability_ratio": 1.5017523043082406
         },
         {
           "date": "2026-05-31",
-          "home_price": 834086.6525715417,
-          "affordability_ratio": 1.5014936069547191
+          "home_price": 834913.8048324966,
+          "affordability_ratio": 1.5000060715653014
         },
         {
           "date": "2026-06-30",
-          "home_price": 834640.6870168393,
-          "affordability_ratio": 1.500496915575318
+          "home_price": 835880.1988119157,
+          "affordability_ratio": 1.4982718555392325
         },
         {
           "date": "2026-07-31",
-          "home_price": 835194.3526120768,
-          "affordability_ratio": 1.499502208756102
+          "home_price": 836842.1828423649,
+          "affordability_ratio": 1.4965495312732586
         },
         {
           "date": "2026-08-31",
-          "home_price": 835747.6538571412,
-          "affordability_ratio": 1.4985094731674915
+          "home_price": 837799.7771658911,
+          "affordability_ratio": 1.4948389944897913
         },
         {
           "date": "2026-09-30",
-          "home_price": 836300.591078821,
-          "affordability_ratio": 1.4975187030142805
+          "home_price": 838753.0018148073,
+          "affordability_ratio": 1.4931401422977566
         },
         {
           "date": "2026-10-31",
-          "home_price": 836853.1645183915,
-          "affordability_ratio": 1.496529892676182
+          "home_price": 839701.8767287361,
+          "affordability_ratio": 1.4914528729664962
         },
         {
           "date": "2026-11-30",
-          "home_price": 837405.3744152244,
-          "affordability_ratio": 1.4955430365574007
+          "home_price": 840646.4217562983,
+          "affordability_ratio": 1.489777085907222
         },
         {
           "date": "2026-12-31",
-          "home_price": 837957.2210084985,
-          "affordability_ratio": 1.494558129083454
+          "home_price": 841586.6566555419,
+          "affordability_ratio": 1.4881126816570052
         },
         {
           "date": "2027-01-31",
-          "home_price": 838508.704537234,
-          "affordability_ratio": 1.4935751647010125
+          "home_price": 842522.6010943551,
+          "affordability_ratio": 1.4864595618630494
         },
         {
           "date": "2027-02-28",
-          "home_price": 839059.8252402944,
-          "affordability_ratio": 1.4925941378777965
+          "home_price": 843454.2746508782,
+          "affordability_ratio": 1.4848176292672346
         },
         {
           "date": "2027-03-31",
-          "home_price": 839610.5833563857,
-          "affordability_ratio": 1.4916150431024775
+          "home_price": 844381.6968139127,
+          "affordability_ratio": 1.4831867876909155
         }
       ]
     },
@@ -10392,63 +10408,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 473293.1623082416,
-          "affordability_ratio": 2.528832803888793
+          "home_price": 473292.9513737632,
+          "affordability_ratio": 2.528833930924442
         },
         {
           "date": "2026-05-31",
-          "home_price": 473305.1920686144,
-          "affordability_ratio": 2.528768529815397
+          "home_price": 473305.1573496577,
+          "affordability_ratio": 2.52876871531138
         },
         {
           "date": "2026-06-30",
-          "home_price": 473291.0081261878,
-          "affordability_ratio": 2.528844313860776
+          "home_price": 473290.7961466576,
+          "affordability_ratio": 2.528845446490512
         },
         {
           "date": "2026-07-31",
-          "home_price": 473304.7586120629,
-          "affordability_ratio": 2.5287708456832743
+          "home_price": 473304.7208364905,
+          "affordability_ratio": 2.528771047510473
         },
         {
           "date": "2026-08-31",
-          "home_price": 473291.23026788834,
-          "affordability_ratio": 2.528843126934545
+          "home_price": 473291.02087192016,
+          "affordability_ratio": 2.528844245758971
         },
         {
           "date": "2026-09-30",
-          "home_price": 473304.5240119473,
-          "affordability_ratio": 2.528772099104492
+          "home_price": 473304.4836485601,
+          "affordability_ratio": 2.5287723147580734
         },
         {
           "date": "2026-10-31",
-          "home_price": 473291.4595186384,
-          "affordability_ratio": 2.5288419020250896
+          "home_price": 473291.25266830623,
+          "affordability_ratio": 2.528843007246841
         },
         {
           "date": "2026-11-30",
-          "home_price": 473304.2986122344,
-          "affordability_ratio": 2.528773303370979
+          "home_price": 473304.25574037904,
+          "affordability_ratio": 2.5287735324270293
         },
         {
           "date": "2026-12-31",
-          "home_price": 473291.681021381,
-          "affordability_ratio": 2.528840718515133
+          "home_price": 473291.47664247325,
+          "affordability_ratio": 2.528841810530792
         },
         {
           "date": "2027-01-31",
-          "home_price": 473304.0809302497,
-          "affordability_ratio": 2.528774466404246
+          "home_price": 473304.03562344535,
+          "affordability_ratio": 2.528774708469982
         },
         {
           "date": "2027-02-28",
-          "home_price": 473291.8949478068,
-          "affordability_ratio": 2.5288395754872006
+          "home_price": 473291.69296789233,
+          "affordability_ratio": 2.528840654683832
         },
         {
           "date": "2027-03-31",
-          "home_price": 473303.8706945336,
-          "affordability_ratio": 2.5287755896545376
+          "home_price": 473303.8230241752,
+          "affordability_ratio": 2.528775844348526
         }
       ]
     },
@@ -11134,63 +11150,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 286207.6615919004,
-          "affordability_ratio": 3.518044970548262
+          "home_price": 286110.2491450122,
+          "affordability_ratio": 3.5192427653489298
         },
         {
           "date": "2026-05-31",
-          "home_price": 286647.85886259284,
-          "affordability_ratio": 3.51264240518338
+          "home_price": 286474.6128836515,
+          "affordability_ratio": 3.5147666812790206
         },
         {
           "date": "2026-06-30",
-          "home_price": 287086.7418777636,
-          "affordability_ratio": 3.5072724634023
+          "home_price": 286838.8589811762,
+          "affordability_ratio": 3.5103034085832885
         },
         {
           "date": "2026-07-31",
-          "home_price": 287525.57013521803,
-          "affordability_ratio": 3.5019195820470554
+          "home_price": 287203.1036274806,
+          "affordability_ratio": 3.5058514747172147
         },
         {
           "date": "2026-08-31",
-          "home_price": 287964.39596990903,
-          "affordability_ratio": 3.4965830445961785
+          "home_price": 287567.3481822426,
+          "affordability_ratio": 3.50141081997132
         },
         {
           "date": "2026-09-30",
-          "home_price": 288403.22155647096,
-          "affordability_ratio": 3.491262749984952
+          "home_price": 287931.59266137343,
+          "affordability_ratio": 3.4969814013425573
         },
         {
           "date": "2026-10-31",
-          "home_price": 288842.04698526487,
-          "affordability_ratio": 3.485958623077928
+          "home_price": 288295.8370650593,
+          "affordability_ratio": 3.492563176236708
         },
         {
           "date": "2026-11-30",
-          "home_price": 289280.8722600455,
-          "affordability_ratio": 3.480670590244319
+          "home_price": 288660.0813933024,
+          "affordability_ratio": 3.488156102276795
         },
         {
           "date": "2026-12-31",
-          "home_price": 289719.6973809689,
-          "affordability_ratio": 3.475398578342933
+          "home_price": 289024.32564610266,
+          "affordability_ratio": 3.483760137299507
         },
         {
           "date": "2027-01-31",
-          "home_price": 290158.5223480416,
-          "affordability_ratio": 3.4701425146768914
+          "home_price": 289388.56982346025,
+          "affordability_ratio": 3.4793752393538284
         },
         {
           "date": "2027-02-28",
-          "home_price": 290597.3471612639,
-          "affordability_ratio": 3.464902326988554
+          "home_price": 289752.8139253751,
+          "affordability_ratio": 3.475001366699706
         },
         {
           "date": "2027-03-31",
-          "home_price": 291036.171820636,
-          "affordability_ratio": 3.4596779434561347
+          "home_price": 290117.0579518473,
+          "affordability_ratio": 3.470638477806722
         }
       ]
     },
@@ -11876,63 +11892,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 254976.58376954828,
-          "affordability_ratio": 4.576325863921072
+          "home_price": 255041.4739316075,
+          "affordability_ratio": 4.575161510052002
         },
         {
           "date": "2026-05-31",
-          "home_price": 255831.17073700784,
-          "affordability_ratio": 4.56103895251427
+          "home_price": 255962.406600124,
+          "affordability_ratio": 4.558700437684728
         },
         {
           "date": "2026-06-30",
-          "home_price": 256685.757947335,
-          "affordability_ratio": 4.545853826600808
+          "home_price": 256883.3698683541,
+          "affordability_ratio": 4.5423568508806325
         },
         {
           "date": "2026-07-31",
-          "home_price": 257540.34476307308,
-          "affordability_ratio": 4.530769484184246
+          "home_price": 257804.3336602609,
+          "affordability_ratio": 4.5261300243948765
         },
         {
           "date": "2026-08-31",
-          "home_price": 258394.9311980807,
-          "affordability_ratio": 4.515784924992711
+          "home_price": 258725.2973278084,
+          "affordability_ratio": 4.510018722755199
         },
         {
           "date": "2026-09-30",
-          "home_price": 259249.51725205677,
-          "affordability_ratio": 4.500899162193384
+          "home_price": 259646.26085703363,
+          "affordability_ratio": 4.4940217168824
         },
         {
           "date": "2026-10-31",
-          "home_price": 260104.1029250079,
-          "affordability_ratio": 4.486111221918112
+          "home_price": 260567.2242476357,
+          "affordability_ratio": 4.478137794835911
         },
         {
           "date": "2026-11-30",
-          "home_price": 260958.68821693416,
-          "affordability_ratio": 4.47142014305658
+          "home_price": 261488.18749960815,
+          "affordability_ratio": 4.462365761744286
         },
         {
           "date": "2026-12-31",
-          "home_price": 261813.2731278358,
-          "affordability_ratio": 4.456824977047973
+          "home_price": 262409.15061295097,
+          "affordability_ratio": 4.4467044395106265
         },
         {
           "date": "2027-01-31",
-          "home_price": 262667.8576577129,
-          "affordability_ratio": 4.442324787676809
+          "home_price": 263330.11358766403,
+          "affordability_ratio": 4.431152666519353
         },
         {
           "date": "2027-02-28",
-          "home_price": 263522.4418065657,
-          "affordability_ratio": 4.427918650872752
+          "home_price": 264251.0764237474,
+          "affordability_ratio": 4.415709297348996
         },
         {
           "date": "2027-03-31",
-          "home_price": 264377.02557439427,
-          "affordability_ratio": 4.4136056545143125
+          "home_price": 265172.03912120115,
+          "affordability_ratio": 4.400373202490973
         }
       ]
     },
@@ -12618,63 +12634,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 232332.1240359457,
-          "affordability_ratio": 4.581786358922987
+          "home_price": 232329.88694979117,
+          "affordability_ratio": 4.581830476582411
         },
         {
           "date": "2026-05-31",
-          "home_price": 233079.23740357885,
-          "affordability_ratio": 4.567099877730911
+          "home_price": 233074.66139994084,
+          "affordability_ratio": 4.567189544559257
         },
         {
           "date": "2026-06-30",
-          "home_price": 233826.34578245503,
-          "affordability_ratio": 4.552507345078531
+          "home_price": 233819.42638882776,
+          "affordability_ratio": 4.552642066948302
         },
         {
           "date": "2026-07-31",
-          "home_price": 234573.45341916147,
-          "affordability_ratio": 4.538007780212628
+          "home_price": 234564.1903539352,
+          "affordability_ratio": 4.538186988564942
         },
         {
           "date": "2026-08-31",
-          "home_price": 235320.560450796,
-          "affordability_ratio": 4.523600294884043
+          "home_price": 235308.9536062822,
+          "affordability_ratio": 4.523823425897381
         },
         {
           "date": "2026-09-30",
-          "home_price": 236067.66688178512,
-          "affordability_ratio": 4.509284014657389
+          "home_price": 236053.71615733404,
+          "affordability_ratio": 4.509550512384196
         },
         {
           "date": "2026-10-31",
-          "home_price": 236814.77271227227,
-          "affordability_ratio": 4.49505807621576
+          "home_price": 236798.47800751403,
+          "affordability_ratio": 4.495367392579781
         },
         {
           "date": "2026-11-30",
-          "home_price": 237561.8779422625,
-          "affordability_ratio": 4.480921627106418
+          "home_price": 237543.2391568384,
+          "affordability_ratio": 4.481273221776114
         },
         {
           "date": "2026-12-31",
-          "home_price": 238308.98257175653,
-          "affordability_ratio": 4.466873825567912
+          "home_price": 238287.99960530837,
+          "affordability_ratio": 4.467267165827454
         },
         {
           "date": "2027-01-31",
-          "home_price": 239056.08660075476,
-          "affordability_ratio": 4.452913840362927
+          "home_price": 239032.75935292456,
+          "affordability_ratio": 4.453348400985503
         },
         {
           "date": "2027-02-28",
-          "home_price": 239803.1900292576,
-          "affordability_ratio": 4.439040850614303
+          "home_price": 239777.5183996877,
+          "affordability_ratio": 4.4395161137378985
         },
         {
           "date": "2027-03-31",
-          "home_price": 240550.2928572657,
-          "affordability_ratio": 4.425254045644145
+          "home_price": 240522.27674559847,
+          "affordability_ratio": 4.425769500649711
         }
       ]
     },
@@ -13360,63 +13376,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 245630.76837537132,
-          "affordability_ratio": 4.383885648898341
+          "home_price": 245632.4505432594,
+          "affordability_ratio": 4.383855626677551
         },
         {
           "date": "2026-05-31",
-          "home_price": 246510.3513687582,
-          "affordability_ratio": 4.3682433391928335
+          "home_price": 246512.90764550015,
+          "affordability_ratio": 4.368198041610008
         },
         {
           "date": "2026-06-30",
-          "home_price": 247390.22774771025,
-          "affordability_ratio": 4.3527070984663405
+          "home_price": 247393.6122681661,
+          "affordability_ratio": 4.35264755033946
         },
         {
           "date": "2026-07-31",
-          "home_price": 248270.11204326665,
-          "affordability_ratio": 4.337280841203325
+          "home_price": 248274.32291336733,
+          "affordability_ratio": 4.337207278516702
         },
         {
           "date": "2026-08-31",
-          "home_price": 249149.9960321848,
-          "affordability_ratio": 4.321963546287039
+          "home_price": 249155.03320568684,
+          "affordability_ratio": 4.321876169042549
         },
         {
           "date": "2026-09-30",
-          "home_price": 250029.87947758567,
-          "affordability_ratio": 4.306754067388157
+          "home_price": 250035.74297681724,
+          "affordability_ratio": 4.306653071231112
         },
         {
           "date": "2026-10-31",
-          "home_price": 250909.76237264616,
-          "affordability_ratio": 4.291651270265824
+          "home_price": 250916.4522223156,
+          "affordability_ratio": 4.29153684770972
         },
         {
           "date": "2026-11-30",
-          "home_price": 251789.6447171699,
-          "affordability_ratio": 4.276654036420876
+          "home_price": 251797.16094206495,
+          "affordability_ratio": 4.276526376945225
         },
         {
           "date": "2026-12-31",
-          "home_price": 252669.5265111516,
-          "affordability_ratio": 4.261761262932265
+          "home_price": 252677.8691360625,
+          "affordability_ratio": 4.261620553040267
         },
         {
           "date": "2027-01-31",
-          "home_price": 253549.40775459143,
-          "affordability_ratio": 4.2469718621898975
+          "home_price": 253558.5768043085,
+          "affordability_ratio": 4.246818285463595
         },
         {
           "date": "2027-02-28",
-          "home_price": 254429.28844748985,
-          "affordability_ratio": 4.232284761629953
+          "home_price": 254439.28394680328,
+          "affordability_ratio": 4.232118498784165
         },
         {
           "date": "2027-03-31",
-          "home_price": 255309.16858984705,
-          "affordability_ratio": 4.2176989034755925
+          "home_price": 255319.9905635471,
+          "affordability_ratio": 4.217520132410673
         }
       ]
     },
@@ -14102,63 +14118,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 232732.63347798443,
-          "affordability_ratio": 4.999783275207292
+          "home_price": 232723.32265893635,
+          "affordability_ratio": 4.999983307059808
         },
         {
           "date": "2026-05-31",
-          "home_price": 233592.6884976949,
-          "affordability_ratio": 4.98137478506592
+          "home_price": 233562.4278659082,
+          "affordability_ratio": 4.9820201780323305
         },
         {
           "date": "2026-06-30",
-          "home_price": 234453.81114071672,
-          "affordability_ratio": 4.9630787522570365
+          "home_price": 234401.7713338795,
+          "affordability_ratio": 4.964180611078818
         },
         {
           "date": "2026-07-31",
-          "home_price": 235314.985726272,
-          "affordability_ratio": 4.944915534668655
+          "home_price": 235241.12021214885,
+          "affordability_ratio": 4.9464682339923725
         },
         {
           "date": "2026-08-31",
-          "home_price": 236176.16263953893,
-          "affordability_ratio": 4.926884726440938
+          "home_price": 236080.469069371,
+          "affordability_ratio": 4.92888180477248
         },
         {
           "date": "2026-09-30",
-          "home_price": 237037.33945689144,
-          "affordability_ratio": 4.908984935134216
+          "home_price": 236919.81777885748,
+          "affordability_ratio": 4.911419987433466
         },
         {
           "date": "2026-10-31",
-          "home_price": 237898.51605993824,
-          "affordability_ratio": 4.891214740343334
+          "home_price": 237759.16633765324,
+          "affordability_ratio": 4.89408146227125
         },
         {
           "date": "2026-11-30",
-          "home_price": 238759.6924428961,
-          "affordability_ratio": 4.873572739822803
+          "home_price": 238598.51474568935,
+          "affordability_ratio": 4.876864928092338
         },
         {
           "date": "2026-12-31",
-          "home_price": 239620.8686054826,
-          "affordability_ratio": 4.85605755137285
+          "home_price": 239437.86300296432,
+          "affordability_ratio": 4.859769101947628
         },
         {
           "date": "2027-01-31",
-          "home_price": 240482.044547684,
-          "affordability_ratio": 4.838667812587764
+          "home_price": 240277.21110947808,
+          "affordability_ratio": 4.842792718815083
         },
         {
           "date": "2027-02-28",
-          "home_price": 241343.2202694996,
-          "affordability_ratio": 4.821402180507947
+          "home_price": 241116.5590652306,
+          "affordability_ratio": 4.825934531287736
         },
         {
           "date": "2027-03-31",
-          "home_price": 242204.39577092952,
-          "affordability_ratio": 4.804259331274437
+          "home_price": 241955.906870222,
+          "affordability_ratio": 4.809193309268133
         }
       ]
     },
@@ -14844,63 +14860,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 211854.1097328905,
-          "affordability_ratio": 5.706646353190459
+          "home_price": 211769.35390432976,
+          "affordability_ratio": 5.708930307554255
         },
         {
           "date": "2026-05-31",
-          "home_price": 212052.2560591388,
-          "affordability_ratio": 5.701313936402744
+          "home_price": 211882.34681504784,
+          "affordability_ratio": 5.705885841310446
         },
         {
           "date": "2026-06-30",
-          "home_price": 212249.0571511168,
-          "affordability_ratio": 5.696027576955716
+          "home_price": 211993.58386684247,
+          "affordability_ratio": 5.702891854854409
         },
         {
           "date": "2026-07-31",
-          "home_price": 212445.07574157268,
-          "affordability_ratio": 5.690771972452126
+          "home_price": 212103.5785057959,
+          "affordability_ratio": 5.699934396357083
         },
         {
           "date": "2026-08-31",
-          "home_price": 212640.33044361204,
-          "affordability_ratio": 5.685546482143977
+          "home_price": 212212.35679616357,
+          "affordability_ratio": 5.697012657358449
         },
         {
           "date": "2026-09-30",
-          "home_price": 212834.82466697603,
-          "affordability_ratio": 5.6803508758837005
+          "home_price": 212319.9324928215,
+          "affordability_ratio": 5.694126163856454
         },
         {
           "date": "2026-10-31",
-          "home_price": 213028.56138566503,
-          "affordability_ratio": 5.675184936947917
+          "home_price": 212426.3188985839,
+          "affordability_ratio": 5.691274456875552
         },
         {
           "date": "2026-11-30",
-          "home_price": 213221.5435503012,
-          "affordability_ratio": 5.670048450945582
+          "home_price": 212531.52916171064,
+          "affordability_ratio": 5.688457084387356
         },
         {
           "date": "2026-12-31",
-          "home_price": 213413.7740996853,
-          "affordability_ratio": 5.664941205486105
+          "home_price": 212635.5762849156,
+          "affordability_ratio": 5.685673600995506
         },
         {
           "date": "2027-01-31",
-          "home_price": 213605.2559611634,
-          "affordability_ratio": 5.659862990147681
+          "home_price": 212738.47312715813,
+          "affordability_ratio": 5.682923567816437
         },
         {
           "date": "2027-02-28",
-          "home_price": 213795.9920506797,
-          "affordability_ratio": 5.654813596454262
+          "home_price": 212840.23240523663,
+          "affordability_ratio": 5.680206552367333
         },
         {
           "date": "2027-03-31",
-          "home_price": 213985.9852728217,
-          "affordability_ratio": 5.6497928178531165
+          "home_price": 212940.86669536048,
+          "affordability_ratio": 5.677522128456482
         }
       ]
     },
@@ -15586,63 +15602,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 409208.5434855021,
-          "affordability_ratio": 2.690280760359336
+          "home_price": 408973.1871505909,
+          "affordability_ratio": 2.6918289660596946
         },
         {
           "date": "2026-05-31",
-          "home_price": 410903.17000313225,
-          "affordability_ratio": 2.6791856375927225
+          "home_price": 410402.53755575744,
+          "affordability_ratio": 2.6824538612024207
         },
         {
           "date": "2026-06-30",
-          "home_price": 412602.32201380224,
-          "affordability_ratio": 2.668152389789233
+          "home_price": 411833.230488076,
+          "affordability_ratio": 2.67313511881744
         },
         {
           "date": "2026-07-31",
-          "home_price": 414301.8682985642,
-          "affordability_ratio": 2.657207113341729
+          "home_price": 413264.0050835887,
+          "affordability_ratio": 2.6638803718002078
         },
         {
           "date": "2026-08-31",
-          "home_price": 416001.4486258588,
-          "affordability_ratio": 2.6463510527431406
+          "home_price": 414694.7843217685,
+          "affordability_ratio": 2.6546894562809777
         },
         {
           "date": "2026-09-30",
-          "home_price": 417701.03158443,
-          "affordability_ratio": 2.635583319815648
+          "home_price": 416125.5634977769,
+          "affordability_ratio": 2.645561744056597
         },
         {
           "date": "2026-10-31",
-          "home_price": 419400.614435298,
-          "affordability_ratio": 2.624902858084748
+          "home_price": 417556.3423242165,
+          "affordability_ratio": 2.6364965872292205
         },
         {
           "date": "2026-11-30",
-          "home_price": 421100.1969396308,
-          "affordability_ratio": 2.6143086123313704
+          "home_price": 418987.1207835315,
+          "affordability_ratio": 2.6274933450340647
         },
         {
           "date": "2026-12-31",
-          "home_price": 422799.7790766031,
-          "affordability_ratio": 2.6037995429374483
+          "home_price": 420417.89887464966,
+          "affordability_ratio": 2.6185513853251745
         },
         {
           "date": "2027-01-31",
-          "home_price": 424499.3608443989,
-          "affordability_ratio": 2.5933746268165643
+          "home_price": 421848.6765975055,
+          "affordability_ratio": 2.609670084526757
         },
         {
           "date": "2027-02-28",
-          "home_price": 426198.9422428601,
-          "affordability_ratio": 2.583032857191835
+          "home_price": 423279.4539520952,
+          "affordability_ratio": 2.6008488274942496
         },
         {
           "date": "2027-03-31",
-          "home_price": 427898.5232719729,
-          "affordability_ratio": 2.572773243281301
+          "home_price": 424710.2309384185,
+          "affordability_ratio": 2.592087007372652
         }
       ]
     },
@@ -16328,63 +16344,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 430484.1598253388,
-          "affordability_ratio": 2.60179129077998
+          "home_price": 430910.52830364753,
+          "affordability_ratio": 2.5992169238971523
         },
         {
           "date": "2026-05-31",
-          "home_price": 431269.8914910556,
-          "affordability_ratio": 2.597051080890335
+          "home_price": 432156.5142015577,
+          "affordability_ratio": 2.59172290835797
         },
         {
           "date": "2026-06-30",
-          "home_price": 432055.7024954603,
-          "affordability_ratio": 2.592327635958171
+          "home_price": 433404.2362251423,
+          "affordability_ratio": 2.5842616297605283
         },
         {
           "date": "2026-07-31",
-          "home_price": 432841.5142821719,
-          "affordability_ratio": 2.58762133689919
+          "home_price": 434652.0323488619,
+          "affordability_ratio": 2.576842748898827
         },
         {
           "date": "2026-08-31",
-          "home_price": 433627.3258653808,
-          "affordability_ratio": 2.5829320963965627
+          "home_price": 435899.8308032297,
+          "affordability_ratio": 2.569466328510456
         },
         {
           "date": "2026-09-30",
-          "home_price": 434413.13723271625,
-          "affordability_ratio": 2.5782598219452573
+          "home_price": 437147.6284891006,
+          "affordability_ratio": 2.5621320232787888
         },
         {
           "date": "2026-10-31",
-          "home_price": 435198.948384023,
-          "affordability_ratio": 2.5736044216356424
+          "home_price": 438395.4252726481,
+          "affordability_ratio": 2.5548394743301235
         },
         {
           "date": "2026-11-30",
-          "home_price": 435984.7593192991,
-          "affordability_ratio": 2.5689658042198555
+          "home_price": 439643.221148094,
+          "affordability_ratio": 2.5475883261145995
         },
         {
           "date": "2026-12-31",
-          "home_price": 436770.5700385446,
-          "affordability_ratio": 2.56434387910674
+          "home_price": 440891.0161151893,
+          "affordability_ratio": 2.540378227075688
         },
         {
           "date": "2027-01-31",
-          "home_price": 437556.3805417596,
-          "affordability_ratio": 2.559738556355961
+          "home_price": 442138.810173924,
+          "affordability_ratio": 2.533208829624609
         },
         {
           "date": "2027-02-28",
-          "home_price": 438342.19082894415,
-          "affordability_ratio": 2.555149746672176
+          "home_price": 443386.6033242983,
+          "affordability_ratio": 2.526079790085809
         },
         {
           "date": "2027-03-31",
-          "home_price": 439128.0009000983,
-          "affordability_ratio": 2.550577361399257
+          "home_price": 444634.3955663128,
+          "affordability_ratio": 2.518990768642104
         }
       ]
     },
@@ -17070,63 +17086,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 658409.6978264648,
-          "affordability_ratio": 1.6742390498703186
+          "home_price": 658827.6704477808,
+          "affordability_ratio": 1.6731768812399268
         },
         {
           "date": "2026-05-31",
-          "home_price": 660147.3257293836,
-          "affordability_ratio": 1.669832147992777
+          "home_price": 660981.7578462702,
+          "affordability_ratio": 1.6677241297947636
         },
         {
           "date": "2026-06-30",
-          "home_price": 661885.2947412903,
-          "affordability_ratio": 1.6654475264407431
+          "home_price": 663136.0469941485,
+          "affordability_ratio": 1.6623062973443083
         },
         {
           "date": "2026-07-31",
-          "home_price": 663623.269572888,
-          "affordability_ratio": 1.6610858561723636
+          "home_price": 665290.3383159464,
+          "affordability_ratio": 1.6569235466499217
         },
         {
           "date": "2026-08-31",
-          "home_price": 665361.2439828768,
-          "affordability_ratio": 1.6567469729913409
+          "home_price": 667444.6294177722,
+          "affordability_ratio": 1.6515755439907835
         },
         {
           "date": "2026-09-30",
-          "home_price": 667099.217855077,
-          "affordability_ratio": 1.6524306990775983
+          "home_price": 669598.9202709112,
+          "affordability_ratio": 1.6462619540491392
         },
         {
           "date": "2026-10-31",
-          "home_price": 668837.1911873262,
-          "affordability_ratio": 1.6481368581754672
+          "home_price": 671753.2108750191,
+          "affordability_ratio": 1.6409824457385072
         },
         {
           "date": "2026-11-30",
-          "home_price": 670575.1639795844,
-          "affordability_ratio": 1.6438652758513808
+          "home_price": 673907.5012300918,
+          "affordability_ratio": 1.6357366922052028
         },
         {
           "date": "2026-12-31",
-          "home_price": 672313.1362318508,
-          "affordability_ratio": 1.6396157794754702
+          "home_price": 676061.7913361292,
+          "affordability_ratio": 1.6305243707617214
         },
         {
           "date": "2027-01-31",
-          "home_price": 674051.1079441258,
-          "affordability_ratio": 1.6353881981984075
+          "home_price": 678216.0811931314,
+          "affordability_ratio": 1.6253451628205775
         },
         {
           "date": "2027-02-28",
-          "home_price": 675789.0791164094,
-          "affordability_ratio": 1.6311823629285065
+          "home_price": 680370.3708010984,
+          "affordability_ratio": 1.6201987538293965
         },
         {
           "date": "2027-03-31",
-          "home_price": 677527.0497487019,
-          "affordability_ratio": 1.626998106309181
+          "home_price": 682524.6601600304,
+          "affordability_ratio": 1.6150848332072305
         }
       ]
     },
@@ -17812,63 +17828,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 260871.57098832604,
-          "affordability_ratio": 4.176103975613225
+          "home_price": 260880.06424720117,
+          "affordability_ratio": 4.175968017611771
         },
         {
           "date": "2026-05-31",
-          "home_price": 261886.09959155283,
-          "affordability_ratio": 4.159926038181965
+          "home_price": 261903.24213035955,
+          "affordability_ratio": 4.159653755590263
         },
         {
           "date": "2026-06-30",
-          "home_price": 262900.62672718754,
-          "affordability_ratio": 4.143872984598534
+          "home_price": 262926.4222382367,
+          "affordability_ratio": 4.143466432375861
         },
         {
           "date": "2026-07-31",
-          "home_price": 263915.153533196,
-          "affordability_ratio": 4.127943356582534
+          "home_price": 263949.6022881769,
+          "affordability_ratio": 4.127404607866746
         },
         {
           "date": "2026-08-31",
-          "home_price": 264929.68008888926,
-          "affordability_ratio": 4.112135734898752
+          "home_price": 264972.78224186774,
+          "affordability_ratio": 4.111466828824648
         },
         {
           "date": "2026-09-30",
-          "home_price": 265944.2063997949,
-          "affordability_ratio": 4.096448723124567
+          "home_price": 265995.96209866623,
+          "affordability_ratio": 4.0956516637824505
         },
         {
           "date": "2026-10-31",
-          "home_price": 266958.7324662982,
-          "affordability_ratio": 4.080880946145295
+          "home_price": 267019.1418585616,
+          "affordability_ratio": 4.07995770320421
         },
         {
           "date": "2026-11-30",
-          "home_price": 267973.2582884261,
-          "affordability_ratio": 4.065431049676754
+          "home_price": 268042.3215215537,
+          "affordability_ratio": 4.064383559076187
         },
         {
           "date": "2026-12-31",
-          "home_price": 268987.78386618063,
-          "affordability_ratio": 4.050097699867282
+          "home_price": 269065.50108764245,
+          "affordability_ratio": 4.04892786449779
         },
         {
           "date": "2027-01-31",
-          "home_price": 270002.30919956183,
-          "affordability_ratio": 4.034879582913522
+          "home_price": 270088.6805568279,
+          "affordability_ratio": 4.033589273281653
         },
         {
           "date": "2027-02-28",
-          "home_price": 271016.8342885698,
-          "affordability_ratio": 4.019775404685121
+          "home_price": 271111.8599291101,
+          "affordability_ratio": 4.018366459562771
         },
         {
           "date": "2027-03-31",
-          "home_price": 272031.3591332047,
-          "affordability_ratio": 4.004783890357876
+          "home_price": 272135.039204489,
+          "affordability_ratio": 4.003258117416456
         }
       ]
     },
@@ -18554,63 +18570,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 347511.4051770952,
-          "affordability_ratio": 3.249079100792712
+          "home_price": 347822.65571374376,
+          "affordability_ratio": 3.246171648971725
         },
         {
           "date": "2026-05-31",
-          "home_price": 348359.63895031664,
-          "affordability_ratio": 3.2411677978832687
+          "home_price": 348981.55277411337,
+          "affordability_ratio": 3.235391770346211
         },
         {
           "date": "2026-06-30",
-          "home_price": 349208.0841428606,
-          "affordability_ratio": 3.2332929709213096
+          "home_price": 350140.49022254,
+          "affordability_ratio": 3.224682878379439
         },
         {
           "date": "2026-07-31",
-          "home_price": 350056.53674643405,
-          "affordability_ratio": 3.225456248702689
+          "home_price": 351299.4265280993,
+          "affordability_ratio": 3.2140446541767864
         },
         {
           "date": "2026-08-31",
-          "home_price": 350904.9876380384,
-          "affordability_ratio": 3.217657438977974
+          "home_price": 352458.3612747544,
+          "affordability_ratio": 3.2034764043172714
         },
         {
           "date": "2026-09-30",
-          "home_price": 351753.4364097094,
-          "affordability_ratio": 3.209896271014347
+          "home_price": 353617.29445833975,
+          "affordability_ratio": 3.1929774407032814
         },
         {
           "date": "2026-10-31",
-          "home_price": 352601.88304320845,
-          "affordability_ratio": 3.2021724731108354
+          "home_price": 354776.2260788157,
+          "affordability_ratio": 3.1825470841926524
         },
         {
           "date": "2026-11-30",
-          "home_price": 353450.3275377252,
-          "affordability_ratio": 3.194485776017553
+          "home_price": 355935.15613618394,
+          "affordability_ratio": 3.1721846644898646
         },
         {
           "date": "2026-12-31",
-          "home_price": 354298.7698932284,
-          "affordability_ratio": 3.186835913057987
+          "home_price": 357094.08463044657,
+          "affordability_ratio": 3.1618895200028176
         },
         {
           "date": "2027-01-31",
-          "home_price": 355147.210109722,
-          "affordability_ratio": 3.179222620104991
+          "home_price": 358253.01156160573,
+          "affordability_ratio": 3.1516609977020327
         },
         {
           "date": "2027-02-28",
-          "home_price": 355995.6481872112,
-          "affordability_ratio": 3.171645635550693
+          "home_price": 359411.93692966347,
+          "affordability_ratio": 3.1414984529825745
         },
         {
           "date": "2027-03-31",
-          "home_price": 356844.0841257014,
-          "affordability_ratio": 3.164104700276539
+          "home_price": 360570.86073462194,
+          "affordability_ratio": 3.1314012495286283
         }
       ]
     },
@@ -19296,63 +19312,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 193440.91949243855,
-          "affordability_ratio": 6.032104986165725
+          "home_price": 193440.78435489372,
+          "affordability_ratio": 6.032109200188434
         },
         {
           "date": "2026-05-31",
-          "home_price": 193944.07422441812,
-          "affordability_ratio": 6.016455721398426
+          "home_price": 193943.79746577432,
+          "affordability_ratio": 6.016464306906949
         },
         {
           "date": "2026-06-30",
-          "home_price": 194445.96450017917,
-          "affordability_ratio": 6.000926468174384
+          "home_price": 194445.5457159288,
+          "affordability_ratio": 6.000939392582002
         },
         {
           "date": "2026-07-31",
-          "home_price": 194947.7814307116,
-          "affordability_ratio": 5.985479426517842
+          "home_price": 194947.22049561792,
+          "affordability_ratio": 5.985496648950943
         },
         {
           "date": "2026-08-31",
-          "home_price": 195449.57191591145,
-          "affordability_ratio": 5.970112513220749
+          "home_price": 195448.8687173156,
+          "affordability_ratio": 5.970133992878134
         },
         {
           "date": "2026-09-30",
-          "home_price": 195951.337803564,
-          "affordability_ratio": 5.954825050332463
+          "home_price": 195950.4922293752,
+          "affordability_ratio": 5.954850746855622
         },
         {
           "date": "2026-10-31",
-          "home_price": 196453.07916757505,
-          "affordability_ratio": 5.939616421097121
+          "home_price": 196452.09110573816,
+          "affordability_ratio": 5.939646294580668
         },
         {
           "date": "2026-11-30",
-          "home_price": 196954.79601200568,
-          "affordability_ratio": 5.9244860172264815
+          "home_price": 196953.665350478,
+          "affordability_ratio": 5.924520028212767
         },
         {
           "date": "2026-12-31",
-          "home_price": 197456.48833816685,
-          "affordability_ratio": 5.909433236756684
+          "home_price": 197455.21496491693,
+          "affordability_ratio": 5.909471346229796
         },
         {
           "date": "2027-01-31",
-          "home_price": 197958.15614726115,
-          "affordability_ratio": 5.894457483887639
+          "home_price": 197956.73995026897,
+          "affordability_ratio": 5.8944996532674825
         },
         {
           "date": "2027-02-28",
-          "home_price": 198459.79944048688,
-          "affordability_ratio": 5.879558168901266
+          "home_price": 198458.2403077437,
+          "affordability_ratio": 5.87960436003771
         },
         {
           "date": "2027-03-31",
-          "home_price": 198961.4182190421,
-          "affordability_ratio": 5.864734708083946
+          "home_price": 198959.7160385505,
+          "affordability_ratio": 5.864784883251094
         }
       ]
     },
@@ -20038,63 +20054,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 264001.4652023404,
-          "affordability_ratio": 4.32348149490566
+          "home_price": 263303.8477210314,
+          "affordability_ratio": 4.334936459567466
         },
         {
           "date": "2026-05-31",
-          "home_price": 264966.2732717266,
-          "affordability_ratio": 4.3077386240012965
+          "home_price": 263551.41816049465,
+          "affordability_ratio": 4.330864380836753
         },
         {
           "date": "2026-06-30",
-          "home_price": 265931.1438758658,
-          "affordability_ratio": 4.29210897525826
+          "home_price": 263798.4563340178,
+          "affordability_ratio": 4.326808675427077
         },
         {
           "date": "2026-07-31",
-          "home_price": 266896.0149424617,
-          "affordability_ratio": 4.276592326327417
+          "home_price": 264045.47658558364,
+          "affordability_ratio": 4.322760852372873
         },
         {
           "date": "2026-08-31",
-          "home_price": 267860.8854339903,
-          "affordability_ratio": 4.261187472672559
+          "home_price": 264292.4961927791,
+          "affordability_ratio": 4.31872060642138
         },
         {
           "date": "2026-09-30",
-          "home_price": 268825.7553331099,
-          "affordability_ratio": 4.245893210700552
+          "home_price": 264539.5157359842,
+          "affordability_ratio": 4.314687906851107
         },
         {
           "date": "2026-10-31",
-          "home_price": 269790.624639531,
-          "affordability_ratio": 4.230708353766326
+          "home_price": 264786.5352346948,
+          "affordability_ratio": 4.310662732221672
         },
         {
           "date": "2026-11-30",
-          "home_price": 270755.4933532492,
-          "affordability_ratio": 4.215631732136753
+          "home_price": 265033.5546895658,
+          "affordability_ratio": 4.306645061479966
         },
         {
           "date": "2026-12-31",
-          "home_price": 271720.3614742648,
-          "affordability_ratio": 4.2006621926947645
+          "home_price": 265280.5741006192,
+          "affordability_ratio": 4.302634873661618
         },
         {
           "date": "2027-01-31",
-          "home_price": 272685.229002578,
-          "affordability_ratio": 4.185798598645429
+          "home_price": 265527.59346785577,
+          "affordability_ratio": 4.298632147880613
         },
         {
           "date": "2027-02-28",
-          "home_price": 273650.0959381893,
-          "affordability_ratio": 4.171039829228175
+          "home_price": 265774.61279127555,
+          "affordability_ratio": 4.294636863328608
         },
         {
           "date": "2027-03-31",
-          "home_price": 274614.96228109905,
-          "affordability_ratio": 4.156384779435081
+          "home_price": 266021.6320708785,
+          "affordability_ratio": 4.2906489992745565
         }
       ]
     },
@@ -20780,63 +20796,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 467190.7762406605,
-          "affordability_ratio": 2.4906586080774247
+          "home_price": 468753.6052355878,
+          "affordability_ratio": 2.482354728500409
         },
         {
           "date": "2026-05-31",
-          "home_price": 467423.449888833,
-          "affordability_ratio": 2.489418810149376
+          "home_price": 470600.7800177345,
+          "affordability_ratio": 2.472611134249129
         },
         {
           "date": "2026-06-30",
-          "home_price": 467654.54199346725,
-          "affordability_ratio": 2.4881886605827725
+          "home_price": 472447.69248096057,
+          "affordability_ratio": 2.4629450984249823
         },
         {
           "date": "2026-07-31",
-          "home_price": 467885.5621366053,
-          "affordability_ratio": 2.4869601086738453
+          "home_price": 474294.0986752381,
+          "affordability_ratio": 2.453356960814585
         },
         {
           "date": "2026-08-31",
-          "home_price": 468116.56780977576,
-          "affordability_ratio": 2.485732846206421
+          "home_price": 476139.9931818855,
+          "affordability_ratio": 2.4438458124093665
         },
         {
           "date": "2026-09-30",
-          "home_price": 468347.56120310456,
-          "affordability_ratio": 2.484506859540496
+          "home_price": 477985.3760161021,
+          "affordability_ratio": 2.434410730630755
         },
         {
           "date": "2026-10-31",
-          "home_price": 468578.54240061954,
-          "affordability_ratio": 2.4832821462475843
+          "home_price": 479830.2473168367,
+          "affordability_ratio": 2.425050806957215
         },
         {
           "date": "2026-11-30",
-          "home_price": 468809.5114061398,
-          "affordability_ratio": 2.482058704329725
+          "home_price": 481674.607225819,
+          "affordability_ratio": 2.415765147263928
         },
         {
           "date": "2026-12-31",
-          "home_price": 469040.46822043,
-          "affordability_ratio": 2.4808365318092864
+          "home_price": 483518.4558848034,
+          "affordability_ratio": 2.40655287155244
         },
         {
           "date": "2027-01-31",
-          "home_price": 469271.412844138,
-          "affordability_ratio": 2.479615626713347
+          "home_price": 485361.7934355065,
+          "affordability_ratio": 2.3974131136730947
         },
         {
           "date": "2027-02-28",
-          "home_price": 469502.3452779076,
-          "affordability_ratio": 2.4783959870731005
+          "home_price": 487204.6200196058,
+          "affordability_ratio": 2.3883450210536794
         },
         {
           "date": "2027-03-31",
-          "home_price": 469733.2655223821,
-          "affordability_ratio": 2.477177610923813
+          "home_price": 489046.9357787393,
+          "affordability_ratio": 2.3793477544344155
         }
       ]
     },
@@ -21522,63 +21538,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 277459.3333598073,
-          "affordability_ratio": 3.7275864154747937
+          "home_price": 277496.9010111676,
+          "affordability_ratio": 3.727081773201812
         },
         {
           "date": "2026-05-31",
-          "home_price": 278426.17110233323,
-          "affordability_ratio": 3.714642333312046
+          "home_price": 278504.86409643275,
+          "affordability_ratio": 3.7135927418509938
         },
         {
           "date": "2026-06-30",
-          "home_price": 279393.14941125194,
-          "affordability_ratio": 3.701785974559968
+          "home_price": 279513.11467532825,
+          "affordability_ratio": 3.700197191391394
         },
         {
           "date": "2026-07-31",
-          "home_price": 280360.1303768388,
-          "affordability_ratio": 3.689018265502107
+          "home_price": 280521.3728194387,
+          "affordability_ratio": 3.6868978341426457
         },
         {
           "date": "2026-08-31",
-          "home_price": 281327.1112509252,
-          "affordability_ratio": 3.676338328289392
+          "home_price": 281529.6309441322,
+          "affordability_ratio": 3.6736937366424183
         },
         {
           "date": "2026-09-30",
-          "home_price": 282294.09197874786,
-          "affordability_ratio": 3.663745261649233
+          "home_price": 282537.88884390413,
+          "affordability_ratio": 3.6605838817253713
         },
         {
           "date": "2026-10-31",
-          "home_price": 283261.07255921536,
-          "affordability_ratio": 3.651238175914556
+          "home_price": 283546.14651318634,
+          "affordability_ratio": 3.6475672640841625
         },
         {
           "date": "2026-11-30",
-          "home_price": 284228.052992306,
-          "affordability_ratio": 3.638816193511719
+          "home_price": 284554.403951828,
+          "affordability_ratio": 3.634642892590052
         },
         {
           "date": "2026-12-31",
-          "home_price": 285195.0332780194,
-          "affordability_ratio": 3.6264784487690527
+          "home_price": 285562.66115982505,
+          "affordability_ratio": 3.621809790110669
         },
         {
           "date": "2027-01-31",
-          "home_price": 286162.01341635553,
-          "affordability_ratio": 3.614224087716031
+          "home_price": 286570.9181371775,
+          "affordability_ratio": 3.609066993265616
         },
         {
           "date": "2027-02-28",
-          "home_price": 287128.9934073144,
-          "affordability_ratio": 3.60205226788624
+          "home_price": 287579.17488388537,
+          "affordability_ratio": 3.596413552185434
         },
         {
           "date": "2027-03-31",
-          "home_price": 288095.9732508961,
-          "affordability_ratio": 3.5899621581243086
+          "home_price": 288587.4313999487,
+          "affordability_ratio": 3.5838485302755774
         }
       ]
     },
@@ -22264,63 +22280,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 446841.42914956645,
-          "affordability_ratio": 2.7292497369766155
+          "home_price": 446828.013118172,
+          "affordability_ratio": 2.729331682823965
         },
         {
           "date": "2026-05-31",
-          "home_price": 446836.9120231797,
-          "affordability_ratio": 2.7292773272800828
+          "home_price": 446838.3231750681,
+          "affordability_ratio": 2.7292687079995632
         },
         {
           "date": "2026-06-30",
-          "home_price": 446839.6815842826,
-          "affordability_ratio": 2.7292604109214054
+          "home_price": 446826.8845446127,
+          "affordability_ratio": 2.7293385764368567
         },
         {
           "date": "2026-07-31",
-          "home_price": 446837.0943566029,
-          "affordability_ratio": 2.729276213589021
+          "home_price": 446838.14793150855,
+          "affordability_ratio": 2.7292697783798907
         },
         {
           "date": "2026-08-31",
-          "home_price": 446839.44270096655,
-          "affordability_ratio": 2.729261870002039
+          "home_price": 446826.99676869233,
+          "affordability_ratio": 2.729337890942221
         },
         {
           "date": "2026-09-30",
-          "home_price": 446837.3077142999,
-          "affordability_ratio": 2.729274910403102
+          "home_price": 446838.0339520265,
+          "affordability_ratio": 2.729270474562248
         },
         {
           "date": "2026-10-31",
-          "home_price": 446839.2485471052,
-          "affordability_ratio": 2.7292630558798074
+          "home_price": 446827.1094470364,
+          "affordability_ratio": 2.729337202673163
         },
         {
           "date": "2026-11-30",
-          "home_price": 446837.48420258064,
-          "affordability_ratio": 2.729273832416018
+          "home_price": 446837.9224175636,
+          "affordability_ratio": 2.7292711558108644
         },
         {
           "date": "2026-12-31",
-          "home_price": 446839.0881071749,
-          "affordability_ratio": 2.7292640358360964
+          "home_price": 446827.2198424752,
+          "affordability_ratio": 2.729336528349028
         },
         {
           "date": "2027-01-31",
-          "home_price": 446837.6300529477,
-          "affordability_ratio": 2.729272941565375
+          "home_price": 446837.8131491968,
+          "affordability_ratio": 2.729271823218576
         },
         {
           "date": "2027-02-28",
-          "home_price": 446838.9555196463,
-          "affordability_ratio": 2.7292648456723225
+          "home_price": 446827.3279952616,
+          "affordability_ratio": 2.729335867723923
         },
         {
           "date": "2027-03-31",
-          "home_price": 446837.75058368687,
-          "affordability_ratio": 2.7292722053668674
+          "home_price": 446837.7061006005,
+          "affordability_ratio": 2.729272477068314
         }
       ]
     },
@@ -23006,63 +23022,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 508132.86504736426,
-          "affordability_ratio": 2.003232270689563
+          "home_price": 507979.8076014353,
+          "affordability_ratio": 2.0038358569155625
         },
         {
           "date": "2026-05-31",
-          "home_price": 508943.4296275312,
-          "affordability_ratio": 2.0000418392389463
+          "home_price": 508619.8211128247,
+          "affordability_ratio": 2.001314362530569
         },
         {
           "date": "2026-06-30",
-          "home_price": 509755.5279176636,
-          "affordability_ratio": 1.9968555460672488
+          "home_price": 509260.055731862,
+          "affordability_ratio": 1.9987983381064125
         },
         {
           "date": "2026-07-31",
-          "home_price": 510567.7202206857,
-          "affordability_ratio": 1.9936790218951723
+          "home_price": 509900.2968477751,
+          "affordability_ratio": 1.996288606524796
         },
         {
           "date": "2026-08-31",
-          "home_price": 511379.91816761193,
-          "affordability_ratio": 1.990512565898591
+          "home_price": 510540.53812903527,
+          "affordability_ratio": 1.99378516893316
         },
         {
           "date": "2026-09-30",
-          "home_price": 512192.1163343306,
-          "affordability_ratio": 1.9873561513320728
+          "home_price": 511180.7793888473,
+          "affordability_ratio": 1.991288002412387
         },
         {
           "date": "2026-10-31",
-          "home_price": 513004.3143879085,
-          "affordability_ratio": 1.9842097317940544
+          "home_price": 511821.0206217002,
+          "affordability_ratio": 1.9887970834499704
         },
         {
           "date": "2026-11-30",
-          "home_price": 513816.5123079098,
-          "affordability_ratio": 1.9810732599633405
+          "home_price": 512461.2618274316,
+          "affordability_ratio": 1.9863123886300684
         },
         {
           "date": "2026-12-31",
-          "home_price": 514628.7100930805,
-          "affordability_ratio": 1.9779466887432615
+          "home_price": 513101.50300603657,
+          "affordability_ratio": 1.9838338946531
         },
         {
           "date": "2027-01-31",
-          "home_price": 515440.9077433436,
-          "affordability_ratio": 1.9748299713294728
+          "home_price": 513741.7441575149,
+          "affordability_ratio": 1.981361578335613
         },
         {
           "date": "2027-02-28",
-          "home_price": 516253.10525869415,
-          "affordability_ratio": 1.9717230612119057
+          "home_price": 514381.98528186674,
+          "affordability_ratio": 1.978895416609584
         },
         {
           "date": "2027-03-31",
-          "home_price": 517065.3026391321,
-          "affordability_ratio": 1.9686259121727196
+          "home_price": 515022.226379092,
+          "affordability_ratio": 1.976435386521695
         }
       ]
     },
@@ -23748,63 +23764,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 571450.6075667889,
-          "affordability_ratio": 1.7045961172409758
+          "home_price": 571427.0412923486,
+          "affordability_ratio": 1.7046664166440595
         },
         {
           "date": "2026-05-31",
-          "home_price": 573480.1394546081,
-          "affordability_ratio": 1.698563594163397
+          "home_price": 573419.6702898424,
+          "affordability_ratio": 1.698742713798041
         },
         {
           "date": "2026-06-30",
-          "home_price": 575509.4028904504,
-          "affordability_ratio": 1.6925744079263392
+          "home_price": 575410.9162638835,
+          "affordability_ratio": 1.6928641068857069
         },
         {
           "date": "2026-07-31",
-          "home_price": 577538.6588464937,
-          "affordability_ratio": 1.686627331231611
+          "home_price": 577402.0735264303,
+          "affordability_ratio": 1.6870263054376726
         },
         {
           "date": "2026-08-31",
-          "home_price": 579567.9143345244,
-          "affordability_ratio": 1.6807219011974197
+          "home_price": 579393.2184499368,
+          "affordability_ratio": 1.6812286644627217
         },
         {
           "date": "2026-09-30",
-          "home_price": 581597.1695429349,
-          "affordability_ratio": 1.6748576813378653
+          "home_price": 581384.355540878,
+          "affordability_ratio": 1.675470757975797
         },
         {
           "date": "2026-10-31",
-          "home_price": 583626.4244767869,
-          "affordability_ratio": 1.6690342417696484
+          "home_price": 583375.4850651908,
+          "affordability_ratio": 1.669752178126739
         },
         {
           "date": "2026-11-30",
-          "home_price": 585655.6791362165,
-          "affordability_ratio": 1.6632511585818377
+          "home_price": 585366.6070385941,
+          "affordability_ratio": 1.6640725233394151
         },
         {
           "date": "2026-12-31",
-          "home_price": 587684.9335212274,
-          "affordability_ratio": 1.6575080137189877
+          "home_price": 587357.7214620423,
+          "affordability_ratio": 1.6584313975283211
         },
         {
           "date": "2027-01-31",
-          "home_price": 589714.1876318197,
-          "affordability_ratio": 1.6518043948800278
+          "home_price": 589348.8283356187,
+          "affordability_ratio": 1.6528284099661006
         },
         {
           "date": "2027-02-28",
-          "home_price": 591743.4414679935,
-          "affordability_ratio": 1.6461398954195798
+          "home_price": 591339.9276593551,
+          "affordability_ratio": 1.6472631751909654
         },
         {
           "date": "2027-03-31",
-          "home_price": 593772.6950297488,
-          "affordability_ratio": 1.640514114251316
+          "home_price": 593331.0194332803,
+          "affordability_ratio": 1.6417353129181564
         }
       ]
     },
@@ -24490,63 +24506,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 317823.2500319892,
-          "affordability_ratio": 3.718031741666755
+          "home_price": 316908.84300798085,
+          "affordability_ratio": 3.728759729903993
         },
         {
           "date": "2026-05-31",
-          "home_price": 318897.9038629312,
-          "affordability_ratio": 3.70550234901053
+          "home_price": 317029.9796001576,
+          "affordability_ratio": 3.727334977433277
         },
         {
           "date": "2026-06-30",
-          "home_price": 319972.38492106623,
-          "affordability_ratio": 3.693059112429757
+          "home_price": 317149.1670866405,
+          "affordability_ratio": 3.725934211694804
         },
         {
           "date": "2026-07-31",
-          "home_price": 321046.67599608394,
-          "affordability_ratio": 3.6807013441031216
+          "home_price": 317268.2483608048,
+          "affordability_ratio": 3.724535745268765
         },
         {
           "date": "2026-08-31",
-          "home_price": 322120.7769576391,
-          "affordability_ratio": 3.668428168525198
+          "home_price": 317387.31903622,
+          "affordability_ratio": 3.723138452559832
         },
         {
           "date": "2026-09-30",
-          "home_price": 323194.6878378163,
-          "affordability_ratio": 3.6562387202713182
+          "home_price": 317506.38407375646,
+          "affordability_ratio": 3.7217422739573114
         },
         {
           "date": "2026-10-31",
-          "home_price": 324268.40867023903,
-          "affordability_ratio": 3.6441321456642974
+          "home_price": 317625.4437310244,
+          "affordability_ratio": 3.720347205116565
         },
         {
           "date": "2026-11-30",
-          "home_price": 325341.9394885395,
-          "affordability_ratio": 3.632107602592845
+          "home_price": 317744.4980216184,
+          "affordability_ratio": 3.718953244560124
         },
         {
           "date": "2026-12-31",
-          "home_price": 326415.280326344,
-          "affordability_ratio": 3.6201642603165114
+          "home_price": 317863.5469464732,
+          "affordability_ratio": 3.71756039096114
         },
         {
           "date": "2027-01-31",
-          "home_price": 327488.4312172731,
-          "affordability_ratio": 3.608301299274412
+          "home_price": 317982.59050586645,
+          "affordability_ratio": 3.7161686430025633
         },
         {
           "date": "2027-02-28",
-          "home_price": 328561.3921949413,
-          "affordability_ratio": 3.5965179108978083
+          "home_price": 318101.6287000419,
+          "affordability_ratio": 3.714777999369828
         },
         {
           "date": "2027-03-31",
-          "home_price": 329634.16329295706,
-          "affordability_ratio": 3.5848132974264235
+          "home_price": 318220.6615292414,
+          "affordability_ratio": 3.713388458750472
         }
       ]
     },
@@ -25232,63 +25248,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 509190.4589357509,
-          "affordability_ratio": 2.117486326052864
+          "home_price": 508969.1824749084,
+          "affordability_ratio": 2.1184069120062863
         },
         {
           "date": "2026-05-31",
-          "home_price": 510584.30617731554,
-          "affordability_ratio": 2.111705787092086
+          "home_price": 510133.85967497,
+          "affordability_ratio": 2.11357041628252
         },
         {
           "date": "2026-06-30",
-          "home_price": 511978.14874909655,
-          "affordability_ratio": 2.105956742074605
+          "home_price": 511298.4653607707,
+          "affordability_ratio": 2.1087562494291023
         },
         {
           "date": "2026-07-31",
-          "home_price": 513371.9909940721,
-          "affordability_ratio": 2.1002389165510293
+          "home_price": 512463.0700970891,
+          "affordability_ratio": 2.1039639674889408
         },
         {
           "date": "2026-08-31",
-          "home_price": 514765.832920344,
-          "affordability_ratio": 2.094552056876468
+          "home_price": 513627.6743742732,
+          "affordability_ratio": 2.099193419565167
         },
         {
           "date": "2026-09-30",
-          "home_price": 516159.67452792753,
-          "affordability_ratio": 2.0888959121790074
+          "home_price": 514792.2781957306,
+          "affordability_ratio": 2.094444458125861
         },
         {
           "date": "2026-10-31",
-          "home_price": 517553.51581682265,
-          "affordability_ratio": 2.0832702342894382
+          "home_price": 515956.8815614853,
+          "affordability_ratio": 2.0897169369850683
         },
         {
           "date": "2026-11-30",
-          "home_price": 518947.3567870296,
-          "affordability_ratio": 2.077674777704896
+          "home_price": 517121.48447153735,
+          "affordability_ratio": 2.085010711273938
         },
         {
           "date": "2026-12-31",
-          "home_price": 520341.1974385482,
-          "affordability_ratio": 2.0721092995531447
+          "home_price": 518286.0869258872,
+          "affordability_ratio": 2.0803256374258288
         },
         {
           "date": "2027-01-31",
-          "home_price": 521735.0377713788,
-          "affordability_ratio": 2.066573559557442
+          "home_price": 519450.6889245348,
+          "affordability_ratio": 2.075661573161712
         },
         {
           "date": "2027-02-28",
-          "home_price": 523128.8777855212,
-          "affordability_ratio": 2.061067320001956
+          "home_price": 520615.2904674804,
+          "affordability_ratio": 2.071018377475764
         },
         {
           "date": "2027-03-31",
-          "home_price": 524522.7174809757,
-          "affordability_ratio": 2.055590345697736
+          "home_price": 521779.8915547243,
+          "affordability_ratio": 2.06639591062116
         }
       ]
     },
@@ -25974,63 +25990,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 337679.2416997728,
-          "affordability_ratio": 3.470023147012091
+          "home_price": 336459.2290161018,
+          "affordability_ratio": 3.482605569745349
         },
         {
           "date": "2026-05-31",
-          "home_price": 338965.5565743836,
-          "affordability_ratio": 3.456855017381593
+          "home_price": 336497.15872708254,
+          "affordability_ratio": 3.482213013019996
         },
         {
           "date": "2026-06-30",
-          "home_price": 340252.0836672731,
-          "affordability_ratio": 3.4437843034917077
+          "home_price": 336534.6174442676,
+          "affordability_ratio": 3.481825417730622
         },
         {
           "date": "2026-07-31",
-          "home_price": 341538.56173966266,
-          "affordability_ratio": 3.430812553040118
+          "home_price": 336572.059718881,
+          "affordability_ratio": 3.481438078794777
         },
         {
           "date": "2026-08-31",
-          "home_price": 342824.986112058,
-          "affordability_ratio": 3.417938693011993
+          "home_price": 336609.5013087236,
+          "affordability_ratio": 3.481050833110678
         },
         {
           "date": "2026-09-30",
-          "home_price": 344111.3567028053,
-          "affordability_ratio": 3.4051616203289043
+          "home_price": 336646.9427600671,
+          "affordability_ratio": 3.4806636749968285
         },
         {
           "date": "2026-10-31",
-          "home_price": 345397.67351264984,
-          "affordability_ratio": 3.3924802476146025
+          "home_price": 336684.3840918493,
+          "affordability_ratio": 3.480276604227777
         },
         {
           "date": "2026-11-30",
-          "home_price": 346683.936543813,
-          "affordability_ratio": 3.379893503706132
+          "home_price": 336721.8253047271,
+          "affordability_ratio": 3.4798896207671874
         },
         {
           "date": "2026-12-31",
-          "home_price": 347970.14579854265,
-          "affordability_ratio": 3.367400333366788
+          "home_price": 336759.2663987237,
+          "affordability_ratio": 3.4795027245852888
         },
         {
           "date": "2027-01-31",
-          "home_price": 349256.3012790872,
-          "affordability_ratio": 3.354999696991479
+          "home_price": 336796.7073738401,
+          "affordability_ratio": 3.479115915652551
         },
         {
           "date": "2027-02-28",
-          "home_price": 350542.4029876948,
-          "affordability_ratio": 3.342690570318349
+          "home_price": 336834.14823007694,
+          "affordability_ratio": 3.478729193939466
         },
         {
           "date": "2027-03-31",
-          "home_price": 351828.4509266135,
-          "affordability_ratio": 3.330471944146762
+          "home_price": 336871.5889674344,
+          "affordability_ratio": 3.478342559416539
         }
       ]
     },
@@ -26716,63 +26732,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 284539.689565869,
-          "affordability_ratio": 4.005949426811449
+          "home_price": 284527.756708146,
+          "affordability_ratio": 4.006117433002157
         },
         {
           "date": "2026-05-31",
-          "home_price": 284987.5369845026,
-          "affordability_ratio": 3.9996542248213625
+          "home_price": 284963.6620720705,
+          "affordability_ratio": 3.999989325071276
         },
         {
           "date": "2026-06-30",
-          "home_price": 285434.4019168678,
-          "affordability_ratio": 3.993392522648618
+          "home_price": 285398.508617808,
+          "affordability_ratio": 3.9938947538367655
         },
         {
           "date": "2026-07-31",
-          "home_price": 285880.6037957691,
-          "affordability_ratio": 3.987159643526573
+          "home_price": 285832.6081323285,
+          "affordability_ratio": 3.9878291485686495
         },
         {
           "date": "2026-08-31",
-          "home_price": 286326.1502681061,
-          "affordability_ratio": 3.9809553030841993
+          "home_price": 286265.96825900936,
+          "affordability_ratio": 3.981792223692405
         },
         {
           "date": "2026-09-30",
-          "home_price": 286771.042436407,
-          "affordability_ratio": 3.9747793104817006
+          "home_price": 286698.59038794844,
+          "affordability_ratio": 3.9757837831678944
         },
         {
           "date": "2026-10-31",
-          "home_price": 287215.28126447974,
-          "affordability_ratio": 3.968631478461892
+          "home_price": 287130.4757786179,
+          "affordability_ratio": 3.969803634499404
         },
         {
           "date": "2026-11-30",
-          "home_price": 287658.8677118396,
-          "affordability_ratio": 3.962511621450652
+          "home_price": 287561.62568570895,
+          "affordability_ratio": 3.9638515869544544
         },
         {
           "date": "2026-12-31",
-          "home_price": 288101.80273653247,
-          "affordability_ratio": 3.956419555499583
+          "home_price": 287992.0413617219,
+          "affordability_ratio": 3.9579274515083953
         },
         {
           "date": "2027-01-31",
-          "home_price": 288544.087295196,
-          "affordability_ratio": 3.950355098267433
+          "home_price": 288421.7240570229,
+          "affordability_ratio": 3.952031040824594
         },
         {
           "date": "2027-02-28",
-          "home_price": 288985.72234306287,
-          "affordability_ratio": 3.944318069002562
+          "home_price": 288850.67501984886,
+          "affordability_ratio": 3.9461621692356217
         },
         {
           "date": "2027-03-31",
-          "home_price": 289426.7088339632,
-          "affordability_ratio": 3.938308288525661
+          "home_price": 289278.895496311,
+          "affordability_ratio": 3.9403206527246857
         }
       ]
     },
@@ -27455,7 +27471,68 @@
           "affordability_ratio": 4.475841213348459
         }
       ],
-      "forecast": []
+      "forecast": [
+        {
+          "date": "2026-04-30",
+          "home_price": 243061.60953510087,
+          "affordability_ratio": 4.458895289494048
+        },
+        {
+          "date": "2026-05-31",
+          "home_price": 243983.41840802747,
+          "affordability_ratio": 4.442048860879655
+        },
+        {
+          "date": "2026-06-30",
+          "home_price": 244905.2660228692,
+          "affordability_ratio": 4.425328550149262
+        },
+        {
+          "date": "2026-07-31",
+          "home_price": 245827.11455265668,
+          "affordability_ratio": 4.408733624787975
+        },
+        {
+          "date": "2026-08-31",
+          "home_price": 246748.9630546272,
+          "affordability_ratio": 4.392262696451397
+        },
+        {
+          "date": "2026-09-30",
+          "home_price": 247670.8115052842,
+          "affordability_ratio": 4.375914380971694
+        },
+        {
+          "date": "2026-10-31",
+          "home_price": 248592.6599040421,
+          "affordability_ratio": 4.359687314304651
+        },
+        {
+          "date": "2026-11-30",
+          "home_price": 249514.50825088637,
+          "affordability_ratio": 4.343580152554328
+        },
+        {
+          "date": "2026-12-31",
+          "home_price": 250436.3565458165,
+          "affordability_ratio": 4.327591571612039
+        },
+        {
+          "date": "2027-01-31",
+          "home_price": 251358.2047888326,
+          "affordability_ratio": 4.311720266793747
+        },
+        {
+          "date": "2027-02-28",
+          "home_price": 252280.05297993467,
+          "affordability_ratio": 4.295964952485176
+        },
+        {
+          "date": "2027-03-31",
+          "home_price": 253201.90111912263,
+          "affordability_ratio": 4.2803243617946585
+        }
+      ]
     },
     {
       "state": "Oklahoma",
@@ -28139,63 +28216,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 221187.45992147367,
-          "affordability_ratio": 5.2316713731837545
+          "home_price": 220713.28416642785,
+          "affordability_ratio": 5.242910985393324
         },
         {
           "date": "2026-05-31",
-          "home_price": 221911.46356797163,
-          "affordability_ratio": 5.214602632837658
+          "home_price": 220948.208084113,
+          "affordability_ratio": 5.237336442836754
         },
         {
           "date": "2026-06-30",
-          "home_price": 222635.58930492488,
-          "affordability_ratio": 5.197642056201144
+          "home_price": 221182.79410068804,
+          "affordability_ratio": 5.231781734575724
         },
         {
           "date": "2026-07-31",
-          "home_price": 223359.70615946405,
-          "affordability_ratio": 5.180791656988719
+          "home_price": 221417.36570012316,
+          "affordability_ratio": 5.226239136751501
         },
         {
           "date": "2026-08-31",
-          "home_price": 224083.81014167852,
-          "affordability_ratio": 5.164050457044477
+          "home_price": 221651.9331972013,
+          "affordability_ratio": 5.2207083668829215
         },
         {
           "date": "2026-09-30",
-          "home_price": 224807.90113024044,
-          "affordability_ratio": 5.147417401081472
+          "home_price": 221886.49692088165,
+          "affordability_ratio": 5.215189379419606
         },
         {
           "date": "2026-10-31",
-          "home_price": 225531.97912167964,
-          "affordability_ratio": 5.130891444685448
+          "home_price": 222121.05688171205,
+          "affordability_ratio": 5.209682136505615
         },
         {
           "date": "2026-11-30",
-          "home_price": 226256.0441161166,
-          "affordability_ratio": 5.11447155676658
+          "home_price": 222355.61308008723,
+          "affordability_ratio": 5.204186600684617
         },
         {
           "date": "2026-12-31",
-          "home_price": 226980.0961137812,
-          "affordability_ratio": 5.0981567194258695
+          "home_price": 222590.1655160782,
+          "affordability_ratio": 5.198702734666941
         },
         {
           "date": "2027-01-31",
-          "home_price": 227704.13511490656,
-          "affordability_ratio": 5.081945927747223
+          "home_price": 222824.7141897457,
+          "affordability_ratio": 5.193230501321365
         },
         {
           "date": "2027-02-28",
-          "home_price": 228428.161119726,
-          "affordability_ratio": 5.065838189591213
+          "home_price": 223059.25910115,
+          "affordability_ratio": 5.1877698636740295
         },
         {
           "date": "2027-03-31",
-          "home_price": 229152.1741284729,
-          "affordability_ratio": 5.049832525392652
+          "home_price": 223293.80025035152,
+          "affordability_ratio": 5.182320784907602
         }
       ]
     },
@@ -28881,63 +28958,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 499106.3736849739,
-          "affordability_ratio": 2.308930868659293
+          "home_price": 499090.62093905086,
+          "affordability_ratio": 2.3090037452067618
         },
         {
           "date": "2026-05-31",
-          "home_price": 499248.0872625434,
-          "affordability_ratio": 2.308275469345592
+          "home_price": 499210.9450288166,
+          "affordability_ratio": 2.3084472093842314
         },
         {
           "date": "2026-06-30",
-          "home_price": 499391.7169900471,
-          "affordability_ratio": 2.3076115877364543
+          "home_price": 499332.6996021694,
+          "affordability_ratio": 2.307884330154992
         },
         {
           "date": "2026-07-31",
-          "home_price": 499535.440283926,
-          "affordability_ratio": 2.306947655787613
+          "home_price": 499454.5151030622,
+          "affordability_ratio": 2.3073214438917207
         },
         {
           "date": "2026-08-31",
-          "home_price": 499679.1675173949,
-          "affordability_ratio": 2.3062840875905017
+          "home_price": 499576.3327540524,
+          "affordability_ratio": 2.3067588222062123
         },
         {
           "date": "2026-09-30",
-          "home_price": 499822.8942829987,
-          "affordability_ratio": 2.3056209031780543
+          "home_price": 499698.1500325815,
+          "affordability_ratio": 2.30619647655429
         },
         {
           "date": "2026-10-31",
-          "home_price": 499966.6203640009,
-          "affordability_ratio": 2.3049581032166304
+          "home_price": 499819.9668303904,
+          "affordability_ratio": 2.3056344072322634
         },
         {
           "date": "2026-11-30",
-          "home_price": 500110.34574974666,
-          "affordability_ratio": 2.30429568742114
+          "home_price": 499941.7831428346,
+          "affordability_ratio": 2.3050726140579303
         },
         {
           "date": "2026-12-31",
-          "home_price": 500254.0704397152,
-          "affordability_ratio": 2.3036336554601022
+          "home_price": 500063.5989697168,
+          "affordability_ratio": 2.304511096828755
         },
         {
           "date": "2027-01-31",
-          "home_price": 500397.794433884,
-          "affordability_ratio": 2.3029720070001223
+          "home_price": 500185.41431103024,
+          "affordability_ratio": 2.3039498553415205
         },
         {
           "date": "2027-02-28",
-          "home_price": 500541.51773225534,
-          "affordability_ratio": 2.3023107417080797
+          "home_price": 500307.2291667766,
+          "affordability_ratio": 2.303388889393172
         },
         {
           "date": "2027-03-31",
-          "home_price": 500685.24033483234,
-          "affordability_ratio": 2.301649859251233
+          "home_price": 500429.0435369577,
+          "affordability_ratio": 2.302828198780851
         }
       ]
     },
@@ -29623,63 +29700,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 283698.45064506266,
-          "affordability_ratio": 3.825156306695976
+          "home_price": 283429.1134663578,
+          "affordability_ratio": 3.8287912784007183
         },
         {
           "date": "2026-05-31",
-          "home_price": 284670.77639140765,
-          "affordability_ratio": 3.812091045807796
+          "home_price": 284132.0789376014,
+          "affordability_ratio": 3.8193185427793903
         },
         {
           "date": "2026-06-30",
-          "home_price": 285643.32746764034,
-          "affordability_ratio": 3.799111735973516
+          "home_price": 284835.6571056507,
+          "affordability_ratio": 3.809884368804014
         },
         {
           "date": "2026-07-31",
-          "home_price": 286615.8833306978,
-          "affordability_ratio": 3.786220446243532
+          "home_price": 285539.27332460973,
+          "affordability_ratio": 3.800496180611766
         },
         {
           "date": "2026-08-31",
-          "home_price": 287588.4388985167,
-          "affordability_ratio": 3.773416350953444
+          "home_price": 286242.89154568274,
+          "affordability_ratio": 3.791154120281964
         },
         {
           "date": "2026-09-30",
-          "home_price": 288560.9940539893,
-          "affordability_ratio": 3.760698569959185
+          "home_price": 286946.50950745004,
+          "affordability_ratio": 3.7818578784861066
         },
         {
           "date": "2026-10-31",
-          "home_price": 289533.5487944172,
-          "affordability_ratio": 3.748066233441488
+          "home_price": 287650.127068048,
+          "affordability_ratio": 3.7726071208309255
         },
         {
           "date": "2026-11-30",
-          "home_price": 290506.1031197383,
-          "affordability_ratio": 3.735518483195356
+          "home_price": 288353.7442185774,
+          "affordability_ratio": 3.763401514433757
         },
         {
           "date": "2026-12-31",
-          "home_price": 291478.6570299514,
-          "affordability_ratio": 3.723054472469755
+          "home_price": 289057.3609584803,
+          "affordability_ratio": 3.754240729544035
         },
         {
           "date": "2027-01-31",
-          "home_price": 292451.21052505664,
-          "affordability_ratio": 3.710673365777918
+          "home_price": 289760.97728772176,
+          "affordability_ratio": 3.7451244396076313
         },
         {
           "date": "2027-02-28",
-          "home_price": 293423.7636050542,
-          "affordability_ratio": 3.698374338710671
+          "home_price": 290464.5932063,
+          "affordability_ratio": 3.7360523212345225
         },
         {
           "date": "2027-03-31",
-          "home_price": 294396.3162699442,
-          "affordability_ratio": 3.6861565777534455
+          "home_price": 291168.20871421497,
+          "affordability_ratio": 3.7270240541609607
         }
       ]
     },
@@ -30365,63 +30442,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 500993.3695802709,
-          "affordability_ratio": 2.160478184491774
+          "home_price": 501048.39225417806,
+          "affordability_ratio": 2.160240931387151
         },
         {
           "date": "2026-05-31",
-          "home_price": 502728.5994065109,
-          "affordability_ratio": 2.1530210273117434
+          "home_price": 502854.48172660975,
+          "affordability_ratio": 2.1524820497506627
         },
         {
           "date": "2026-06-30",
-          "home_price": 504464.1912713844,
-          "affordability_ratio": 2.145613631812598
+          "home_price": 504662.1056026161,
+          "affordability_ratio": 2.1447721822916064
         },
         {
           "date": "2026-07-31",
-          "home_price": 506199.792627708,
-          "affordability_ratio": 2.1382569912454628
+          "home_price": 506469.8089743765,
+          "affordability_ratio": 2.1371170134406974
         },
         {
           "date": "2026-08-31",
-          "home_price": 507935.3940644724,
-          "affordability_ratio": 2.1309506252202866
+          "home_price": 508277.51589469815,
+          "affordability_ratio": 2.1295162813722457
         },
         {
           "date": "2026-09-30",
-          "home_price": 509670.9953304571,
-          "affordability_ratio": 2.123694021182058
+          "home_price": 510085.2223990853,
+          "affordability_ratio": 2.121969423976673
         },
         {
           "date": "2026-10-31",
-          "home_price": 511406.596418956,
-          "affordability_ratio": 2.116486672507613
+          "home_price": 511892.9282805886,
+          "affordability_ratio": 2.1144758713289007
         },
         {
           "date": "2026-11-30",
-          "home_price": 513142.1973297901,
-          "affordability_ratio": 2.109328079400893
+          "home_price": 513700.6335284056,
+          "affordability_ratio": 2.107035060709826
         },
         {
           "date": "2026-12-31",
-          "home_price": 514877.7980629545,
-          "affordability_ratio": 2.102217748804263
+          "home_price": 515508.3381419724,
+          "affordability_ratio": 2.099646437251434
         },
         {
           "date": "2027-01-31",
-          "home_price": 516613.3986184492,
-          "affordability_ratio": 2.095155194286024
+          "home_price": 517316.04212126,
+          "affordability_ratio": 2.092309453839606
         },
         {
           "date": "2027-02-28",
-          "home_price": 518348.9989962743,
-          "affordability_ratio": 2.0881399359294988
+          "home_price": 519123.7454662669,
+          "affordability_ratio": 2.085023570981178
         },
         {
           "date": "2027-03-31",
-          "home_price": 520084.5991964296,
-          "affordability_ratio": 2.0811715002243245
+          "home_price": 520931.4481769934,
+          "affordability_ratio": 2.077788256671817
         }
       ]
     },
@@ -31107,63 +31184,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 305103.82434009947,
-          "affordability_ratio": 3.956795240118145
+          "home_price": 305103.80942856247,
+          "affordability_ratio": 3.956795433501173
         },
         {
           "date": "2026-05-31",
-          "home_price": 306127.2900280838,
-          "affordability_ratio": 3.943566611718929
+          "home_price": 306127.2583670935,
+          "affordability_ratio": 3.943567019579453
         },
         {
           "date": "2026-06-30",
-          "home_price": 307149.57283435727,
-          "affordability_ratio": 3.930441278984937
+          "home_price": 307149.52018273046,
+          "affordability_ratio": 3.930441952741898
         },
         {
           "date": "2026-07-31",
-          "home_price": 308170.6087738086,
-          "affordability_ratio": 3.917418876168151
+          "home_price": 308170.5308232044,
+          "affordability_ratio": 3.917419867064871
         },
         {
           "date": "2026-08-31",
-          "home_price": 309190.3983573818,
-          "affordability_ratio": 3.904498219557748
+          "home_price": 309190.290808205,
+          "affordability_ratio": 3.9044995777037887
         },
         {
           "date": "2026-09-30",
-          "home_price": 310208.9430908704,
-          "affordability_ratio": 3.8916781310753823
+          "home_price": 310208.8016540411,
+          "affordability_ratio": 3.8916799054499727
         },
         {
           "date": "2026-10-31",
-          "home_price": 311226.244493613,
-          "affordability_ratio": 3.8789574505678392
+          "home_price": 311226.0648905843,
+          "affordability_ratio": 3.8789596890452183
         },
         {
           "date": "2026-11-30",
-          "home_price": 312242.30408333155,
-          "affordability_ratio": 3.866335035654106
+          "home_price": 312242.08204607083,
+          "affordability_ratio": 3.8663377850286778
         },
         {
           "date": "2026-12-31",
-          "home_price": 313257.12337589875,
-          "affordability_ratio": 3.853809761389228
+          "home_price": 313256.8546468686,
+          "affordability_ratio": 3.853813067400076
         },
         {
           "date": "2027-01-31",
-          "home_price": 314270.7038853371,
-          "affordability_ratio": 3.8413805199329434
+          "home_price": 314270.38421747583,
+          "affordability_ratio": 3.8413844272877458
         },
         {
           "date": "2027-02-28",
-          "home_price": 315283.04712382087,
-          "affordability_ratio": 3.8290462202258286
+          "home_price": 315282.67228052334,
+          "affordability_ratio": 3.8290507726241616
         },
         {
           "date": "2027-03-31",
-          "home_price": 316294.1546016784,
-          "affordability_ratio": 3.816805787672757
+          "home_price": 316293.7203567769,
+          "affordability_ratio": 3.8168110278288103
         }
       ]
     },
@@ -31849,63 +31926,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 318246.09007231914,
-          "affordability_ratio": 3.505316329245567
+          "home_price": 317726.2882515972,
+          "affordability_ratio": 3.511051044557212
         },
         {
           "date": "2026-05-31",
-          "home_price": 319346.9473273139,
-          "affordability_ratio": 3.493232753860247
+          "home_price": 318281.5521838383,
+          "affordability_ratio": 3.5049257759202965
         },
         {
           "date": "2026-06-30",
-          "home_price": 320447.9547750118,
-          "affordability_ratio": 3.481230569975994
+          "home_price": 318835.6867009032,
+          "affordability_ratio": 3.498834235878828
         },
         {
           "date": "2026-07-31",
-          "home_price": 321548.96950107545,
-          "affordability_ratio": 3.469310500294808
+          "home_price": 319389.7651791781,
+          "affordability_ratio": 3.492764446046757
         },
         {
           "date": "2026-08-31",
-          "home_price": 322649.98428078246,
-          "affordability_ratio": 3.4574717824199817
+          "home_price": 319943.8407495873,
+          "affordability_ratio": 3.486715711218125
         },
         {
           "date": "2026-09-30",
-          "home_price": 323750.9987489029,
-          "affordability_ratio": 3.4457135902591136
+          "home_price": 320497.9160420518,
+          "affordability_ratio": 3.48068789346726
         },
         {
           "date": "2026-10-31",
-          "home_price": 324852.0128869734,
-          "affordability_ratio": 3.434035105200944
+          "home_price": 321051.99118674983,
+          "affordability_ratio": 3.4746808830727973
         },
         {
           "date": "2026-11-30",
-          "home_price": 325953.0266940608,
-          "affordability_ratio": 3.4224355195085
+          "home_price": 321606.0661901251,
+          "affordability_ratio": 3.468694572413849
         },
         {
           "date": "2026-12-31",
-          "home_price": 327054.04017011786,
-          "affordability_ratio": 3.410914036312771
+          "home_price": 322160.1410524965,
+          "affordability_ratio": 3.462728854676267
         },
         {
           "date": "2027-01-31",
-          "home_price": 328155.0533151424,
-          "affordability_ratio": 3.3994698694392453
+          "home_price": 322714.21577388,
+          "affordability_ratio": 3.456783623782796
         },
         {
           "date": "2027-02-28",
-          "home_price": 329256.0661291344,
-          "affordability_ratio": 3.388102243229546
+          "home_price": 323268.2903542764,
+          "affordability_ratio": 3.45085877438365
         },
         {
           "date": "2027-03-31",
-          "home_price": 330357.0786120939,
-          "affordability_ratio": 3.376810392366199
+          "home_price": 323822.3647936856,
+          "affordability_ratio": 3.44495420185014
         }
       ]
     },
@@ -32591,63 +32668,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 333719.440438804,
-          "affordability_ratio": 3.596766325820955
+          "home_price": 333747.6165569096,
+          "affordability_ratio": 3.5964626744755464
         },
         {
           "date": "2026-05-31",
-          "home_price": 333761.1630941397,
-          "affordability_ratio": 3.5963167029818446
+          "home_price": 333815.1709168522,
+          "affordability_ratio": 3.5957348563438405
         },
         {
           "date": "2026-06-30",
-          "home_price": 333801.7224487849,
-          "affordability_ratio": 3.595879724156503
+          "home_price": 333881.2830127332,
+          "affordability_ratio": 3.595022862052216
         },
         {
           "date": "2026-07-31",
-          "home_price": 333842.2311122934,
-          "affordability_ratio": 3.595443397448293
+          "home_price": 333947.323295574,
+          "affordability_ratio": 3.5943119226013893
         },
         {
           "date": "2026-08-31",
-          "home_price": 333882.73744801094,
-          "affordability_ratio": 3.595007201679611
+          "home_price": 334013.359663027,
+          "affordability_ratio": 3.593601306405973
         },
         {
           "date": "2026-09-30",
-          "home_price": 333923.24355821474,
-          "affordability_ratio": 3.594571114163381
+          "home_price": 334079.3954790168,
+          "affordability_ratio": 3.592890977071624
         },
         {
           "date": "2026-10-31",
-          "home_price": 333963.74953428784,
-          "affordability_ratio": 3.5941351338758607
+          "home_price": 334145.4309102078,
+          "affordability_ratio": 3.5921809326330485
         },
         {
           "date": "2026-11-30",
-          "home_price": 334004.25538020284,
-          "affordability_ratio": 3.5936992607347693
+          "home_price": 334211.46596485924,
+          "affordability_ratio": 3.5914711728301656
         },
         {
           "date": "2026-12-31",
-          "home_price": 334044.76109613286,
-          "affordability_ratio": 3.5932634946987583
+          "home_price": 334277.5006433823,
+          "affordability_ratio": 3.590761697487476
         },
         {
           "date": "2027-01-31",
-          "home_price": 334085.2666820858,
-          "affordability_ratio": 3.5928278357282752
+          "home_price": 334343.5349457995,
+          "affordability_ratio": 3.590052506433793
         },
         {
           "date": "2027-02-28",
-          "home_price": 334125.77213806246,
-          "affordability_ratio": 3.5923922837838678
+          "home_price": 334409.5688721139,
+          "affordability_ratio": 3.589343599498283
         },
         {
           "date": "2027-03-31",
-          "home_price": 334166.2774640632,
-          "affordability_ratio": 3.5919568388261007
+          "home_price": 334475.6024223277,
+          "affordability_ratio": 3.588634976510252
         }
       ]
     },
@@ -33333,63 +33410,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 301344.11805352254,
-          "affordability_ratio": 3.4881472178343405
+          "home_price": 301325.66441200144,
+          "affordability_ratio": 3.4883608372698323
         },
         {
           "date": "2026-05-31",
-          "home_price": 301751.9446238904,
-          "affordability_ratio": 3.4834328849455813
+          "home_price": 301716.9448083398,
+          "affordability_ratio": 3.483836970664179
         },
         {
           "date": "2026-06-30",
-          "home_price": 302160.4139066084,
-          "affordability_ratio": 3.478723878515805
+          "home_price": 302109.0176777969,
+          "affordability_ratio": 3.479315695634693
         },
         {
           "date": "2026-07-31",
-          "home_price": 302568.8795519379,
-          "affordability_ratio": 3.4740276282072293
+          "home_price": 302501.0967030284,
+          "affordability_ratio": 3.474806069979497
         },
         {
           "date": "2026-08-31",
-          "home_price": 302977.3212120431,
-          "affordability_ratio": 3.4693443152581285
+          "home_price": 302893.15414361644,
+          "affordability_ratio": 3.470308366562634
         },
         {
           "date": "2026-09-30",
-          "home_price": 303385.73824774567,
-          "affordability_ratio": 3.464673893605308
+          "home_price": 303285.1890221218,
+          "affordability_ratio": 3.465822549357884
         },
         {
           "date": "2026-10-31",
-          "home_price": 303794.1306403624,
-          "affordability_ratio": 3.460016310333164
+          "home_price": 303677.2013053164,
+          "affordability_ratio": 3.4613485717102983
         },
         {
           "date": "2026-11-30",
-          "home_price": 304202.4983907452,
-          "affordability_ratio": 3.4553715125934565
+          "home_price": 304069.1909932845,
+          "affordability_ratio": 3.4568863868301354
         },
         {
           "date": "2026-12-31",
-          "home_price": 304610.841500361,
-          "affordability_ratio": 3.450739447820645
+          "home_price": 304461.15808728547,
+          "affordability_ratio": 3.452435948160554
         },
         {
           "date": "2027-01-31",
-          "home_price": 305019.159970696,
-          "affordability_ratio": 3.4461200637367275
+          "home_price": 304853.10258862004,
+          "affordability_ratio": 3.4479972093889915
         },
         {
           "date": "2027-02-28",
-          "home_price": 305427.4538032369,
-          "affordability_ratio": 3.4415133083494864
+          "home_price": 305245.02449859044,
+          "affordability_ratio": 3.443570124446014
         },
         {
           "date": "2027-03-31",
-          "home_price": 305835.7229994703,
-          "affordability_ratio": 3.436919129950553
+          "home_price": 305636.9238184988,
+          "affordability_ratio": 3.439154647503744
         }
       ]
     },
@@ -34075,63 +34152,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 537792.9601868584,
-          "affordability_ratio": 2.24803329946072
+          "home_price": 537810.4873643303,
+          "affordability_ratio": 2.24796003633267
         },
         {
           "date": "2026-05-31",
-          "home_price": 537813.8842122628,
-          "affordability_ratio": 2.247945838152545
+          "home_price": 537830.8684365876,
+          "affordability_ratio": 2.247874850006223
         },
         {
           "date": "2026-06-30",
-          "home_price": 537837.0123864684,
-          "affordability_ratio": 2.2478491715384
+          "home_price": 537851.8368162973,
+          "affordability_ratio": 2.247787215661282
         },
         {
           "date": "2026-07-31",
-          "home_price": 537860.2686435471,
-          "affordability_ratio": 2.2477519779711206
+          "home_price": 537872.8223823812,
+          "affordability_ratio": 2.2476995163294067
         },
         {
           "date": "2026-08-31",
-          "home_price": 537883.5322277201,
-          "affordability_ratio": 2.2476547621907392
+          "home_price": 537893.808240091,
+          "affordability_ratio": 2.2476118226220216
         },
         {
           "date": "2026-09-30",
-          "home_price": 537906.7961151467,
-          "affordability_ratio": 2.247557553552107
+          "home_price": 537914.7938887763,
+          "affordability_ratio": 2.247524136630436
         },
         {
           "date": "2026-10-31",
-          "home_price": 537930.059897281,
-          "affordability_ratio": 2.247460353761357
+          "home_price": 537935.7793136035,
+          "affordability_ratio": 2.247436458415619
         },
         {
           "date": "2026-11-30",
-          "home_price": 537953.3235503603,
-          "affordability_ratio": 2.247363162916556
+          "home_price": 537956.7645141353,
+          "affordability_ratio": 2.2473487879783764
         },
         {
           "date": "2026-12-31",
-          "home_price": 537976.5870730031,
-          "affordability_ratio": 2.2472659810222444
+          "home_price": 537977.7494903611,
+          "affordability_ratio": 2.2472611253177344
         },
         {
           "date": "2027-01-31",
-          "home_price": 537999.8504651297,
-          "affordability_ratio": 2.2471688080775225
+          "home_price": 537998.7342422828,
+          "affordability_ratio": 2.247173470432664
         },
         {
           "date": "2027-02-28",
-          "home_price": 538023.1137267364,
-          "affordability_ratio": 2.2470716440811755
+          "home_price": 538019.7187699028,
+          "affordability_ratio": 2.247085823322136
         },
         {
           "date": "2027-03-31",
-          "home_price": 538046.3768578235,
-          "affordability_ratio": 2.2469744890319707
+          "home_price": 538040.7030732236,
+          "affordability_ratio": 2.2469981839851205
         }
       ]
     },
@@ -34817,63 +34894,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 394823.59218035615,
-          "affordability_ratio": 2.6098622405256178
+          "home_price": 394729.4474434364,
+          "affordability_ratio": 2.6104847043312
         },
         {
           "date": "2026-05-31",
-          "home_price": 395588.6449089343,
-          "affordability_ratio": 2.60481487060228
+          "home_price": 395356.03931136784,
+          "affordability_ratio": 2.6063473994099384
         },
         {
           "date": "2026-06-30",
-          "home_price": 396353.3930526276,
-          "affordability_ratio": 2.599788983674416
+          "home_price": 395979.8297069581,
+          "affordability_ratio": 2.602241598171207
         },
         {
           "date": "2026-07-31",
-          "home_price": 397118.1367210394,
-          "affordability_ratio": 2.594782483138107
+          "home_price": 396603.4993851888,
+          "affordability_ratio": 2.59814950321308
         },
         {
           "date": "2026-08-31",
-          "home_price": 397882.88031100674,
-          "affordability_ratio": 2.5897952284218744
+          "home_price": 397227.1636919453,
+          "affordability_ratio": 2.594070292985584
         },
         {
           "date": "2026-09-30",
-          "home_price": 398647.6238869466,
-          "affordability_ratio": 2.5848271083447383
+          "home_price": 397850.8275902601,
+          "affordability_ratio": 2.590003874420553
         },
         {
           "date": "2026-10-31",
-          "home_price": 399412.3674498028,
-          "affordability_ratio": 2.579878012990421
+          "home_price": 398474.4912936794,
+          "affordability_ratio": 2.585950186057849
         },
         {
           "date": "2026-11-30",
-          "home_price": 400177.1109995891,
-          "affordability_ratio": 2.5749478332888835
+          "home_price": 399098.15481139167,
+          "affordability_ratio": 2.581909168152297
         },
         {
           "date": "2026-12-31",
-          "home_price": 400941.85453630576,
-          "affordability_ratio": 2.5700364610023274
+          "home_price": 399721.8181437923,
+          "affordability_ratio": 2.577880761388706
         },
         {
           "date": "2027-01-31",
-          "home_price": 401706.5980599528,
-          "affordability_ratio": 2.565143788717181
+          "home_price": 400345.4812908983,
+          "affordability_ratio": 2.5738649068239736
         },
         {
           "date": "2027-02-28",
-          "home_price": 402471.3415705301,
-          "affordability_ratio": 2.5602697098362737
+          "home_price": 400969.1442527105,
+          "affordability_ratio": 2.56986154588186
         },
         {
           "date": "2027-03-31",
-          "home_price": 403236.08506803785,
-          "affordability_ratio": 2.5554141185710906
+          "home_price": 401592.807029229,
+          "affordability_ratio": 2.565870620350028
         }
       ]
     },
@@ -35559,63 +35636,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 413006.2455938937,
-          "affordability_ratio": 2.829217087547758
+          "home_price": 412810.4413476664,
+          "affordability_ratio": 2.830559041780873
         },
         {
           "date": "2026-05-31",
-          "home_price": 413544.9096638821,
-          "affordability_ratio": 2.825531882977116
+          "home_price": 413149.8645459362,
+          "affordability_ratio": 2.828233596499876
         },
         {
           "date": "2026-06-30",
-          "home_price": 414083.5584514434,
-          "affordability_ratio": 2.821856370409861
+          "home_price": 413489.214964585,
+          "affordability_ratio": 2.825912466418911
         },
         {
           "date": "2026-07-31",
-          "home_price": 414622.20628221537,
-          "affordability_ratio": 2.8181904142945324
+          "home_price": 413828.5639246543,
+          "affordability_ratio": 2.823595153066659
         },
         {
           "date": "2026-08-31",
-          "home_price": 415160.853591666,
-          "affordability_ratio": 2.8145339744567046
+          "home_price": 414167.91274722485,
+          "affordability_ratio": 2.821281638037806
         },
         {
           "date": "2026-09-30",
-          "home_price": 415699.50039303297,
-          "affordability_ratio": 2.8108870138006385
+          "home_price": 414507.2614567673,
+          "affordability_ratio": 2.8189719118347982
         },
         {
           "date": "2026-10-31",
-          "home_price": 416238.1466867192,
-          "affordability_ratio": 2.807249495509711
+          "home_price": 414846.6100537348,
+          "affordability_ratio": 2.816665965154775
         },
         {
           "date": "2026-11-30",
-          "home_price": 416776.7924727374,
-          "affordability_ratio": 2.8036213829603382
+          "home_price": 415185.9585381359,
+          "affordability_ratio": 2.814363788728326
         },
         {
           "date": "2026-12-31",
-          "home_price": 417315.4377510884,
-          "affordability_ratio": 2.8000026397181665
+          "home_price": 415525.3069099708,
+          "affordability_ratio": 2.8120653733163787
         },
         {
           "date": "2027-01-31",
-          "home_price": 417854.0825217727,
-          "affordability_ratio": 2.796393229536785
+          "home_price": 415864.6551692394,
+          "affordability_ratio": 2.809770709710027
         },
         {
           "date": "2027-02-28",
-          "home_price": 418392.7267847907,
-          "affordability_ratio": 2.792793116356501
+          "home_price": 416204.0033159419,
+          "affordability_ratio": 2.8074797887304057
         },
         {
           "date": "2027-03-31",
-          "home_price": 418931.370540143,
-          "affordability_ratio": 2.789202264303152
+          "home_price": 416543.35135007824,
+          "affordability_ratio": 2.805192601228564
         }
       ]
     },
@@ -36301,63 +36378,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 601732.7792775666,
-          "affordability_ratio": 1.931086217249041
+          "home_price": 600991.7587367422,
+          "affordability_ratio": 1.933467239172024
         },
         {
           "date": "2026-05-31",
-          "home_price": 602496.5679208712,
-          "affordability_ratio": 1.9286381672509028
+          "home_price": 601010.0213370628,
+          "affordability_ratio": 1.9334084878398197
         },
         {
           "date": "2026-06-30",
-          "home_price": 603261.4893267371,
-          "affordability_ratio": 1.9261926993329248
+          "home_price": 601029.7676549128,
+          "affordability_ratio": 1.933344967361152
         },
         {
           "date": "2026-07-31",
-          "home_price": 604026.4375832744,
-          "affordability_ratio": 1.9237533396370063
+          "home_price": 601049.5653192728,
+          "affordability_ratio": 1.933281285899648
         },
         {
           "date": "2026-08-31",
-          "home_price": 604791.3862136467,
-          "affordability_ratio": 1.9213201494232
+          "home_price": 601069.3646962607,
+          "affordability_ratio": 1.933217603124828
         },
         {
           "date": "2026-09-30",
-          "home_price": 605556.3345839673,
-          "affordability_ratio": 1.9188931073245072
+          "home_price": 601089.1640659854,
+          "affordability_ratio": 1.9331539245686824
         },
         {
           "date": "2026-10-31",
-          "home_price": 606321.2826790604,
-          "affordability_ratio": 1.9164721901159785
+          "home_price": 601108.9633688502,
+          "affordability_ratio": 1.933090250422447
         },
         {
           "date": "2026-11-30",
-          "home_price": 607086.2304985627,
-          "affordability_ratio": 1.9140573746427925
+          "home_price": 601128.7626027904,
+          "affordability_ratio": 1.933026580692305
         },
         {
           "date": "2026-12-31",
-          "home_price": 607851.1780424656,
-          "affordability_ratio": 1.9116486378655813
+          "home_price": 601148.5617677345,
+          "affordability_ratio": 1.9329629153780272
         },
         {
           "date": "2027-01-31",
-          "home_price": 608616.125310769,
-          "affordability_ratio": 1.9092459568607945
+          "home_price": 601168.3608636804,
+          "affordability_ratio": 1.9328992544791628
         },
         {
           "date": "2027-02-28",
-          "home_price": 609381.072303473,
-          "affordability_ratio": 1.9068493088200005
+          "home_price": 601188.1598906282,
+          "affordability_ratio": 1.932835597995253
         },
         {
           "date": "2027-03-31",
-          "home_price": 610146.0190205778,
-          "affordability_ratio": 1.904458671049165
+          "home_price": 601207.958848578,
+          "affordability_ratio": 1.9327719459258397
         }
       ]
     },
@@ -37043,63 +37120,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 174917.5923548303,
-          "affordability_ratio": 6.891789671514314
+          "home_price": 174927.92824505447,
+          "affordability_ratio": 6.891382459342951
         },
         {
           "date": "2026-05-31",
-          "home_price": 175405.57215520376,
-          "affordability_ratio": 6.872616653765792
+          "home_price": 175430.11484274385,
+          "affordability_ratio": 6.871655174128915
         },
         {
           "date": "2026-06-30",
-          "home_price": 175892.46023529625,
-          "affordability_ratio": 6.85359255731909
+          "home_price": 175931.61132283558,
+          "affordability_ratio": 6.852067387395659
         },
         {
           "date": "2026-07-31",
-          "home_price": 176379.28053851478,
-          "affordability_ratio": 6.834676117719703
+          "home_price": 176433.07304895917,
+          "affordability_ratio": 6.832592299872557
         },
         {
           "date": "2026-08-31",
-          "home_price": 176866.09644152498,
-          "affordability_ratio": 6.815863981912036
+          "home_price": 176934.5328726643,
+          "affordability_ratio": 6.813227676842133
         },
         {
           "date": "2026-09-30",
-          "home_price": 177352.9118670064,
-          "affordability_ratio": 6.797155139246595
+          "home_price": 177435.99244070757,
+          "affordability_ratio": 6.793972518061698
         },
         {
           "date": "2026-10-31",
-          "home_price": 177839.72705775214,
-          "affordability_ratio": 6.77854873205971
+          "home_price": 177937.45183563634,
+          "affordability_ratio": 6.77482589483582
         },
         {
           "date": "2026-11-30",
-          "home_price": 178326.54202878996,
-          "affordability_ratio": 6.760043920789701
+          "home_price": 178438.9110615885,
+          "affordability_ratio": 6.755786891913344
         },
         {
           "date": "2026-12-31",
-          "home_price": 178813.35678105007,
-          "affordability_ratio": 6.741639875556122
+          "home_price": 178940.37011877156,
+          "affordability_ratio": 6.736854604453002
         },
         {
           "date": "2027-01-31",
-          "home_price": 179300.17131459012,
-          "affordability_ratio": 6.723335775525144
+          "home_price": 179441.82900719598,
+          "affordability_ratio": 6.71802813773609
         },
         {
           "date": "2027-02-28",
-          "home_price": 179786.98562941377,
-          "affordability_ratio": 6.705130808756089
+          "home_price": 179943.2877268623,
+          "affordability_ratio": 6.69930660701834
         },
         {
           "date": "2027-03-31",
-          "home_price": 180273.79972552136,
-          "affordability_ratio": 6.6870241720794485
+          "home_price": 180444.74627777064,
+          "affordability_ratio": 6.680689137390962
         }
       ]
     },
@@ -37785,63 +37862,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 331340.453616019,
-          "affordability_ratio": 3.168386822082275
+          "home_price": 331326.2791260063,
+          "affordability_ratio": 3.168522369034616
         },
         {
           "date": "2026-05-31",
-          "home_price": 332472.2284358424,
-          "affordability_ratio": 3.1576012583028183
+          "home_price": 332473.6638550577,
+          "affordability_ratio": 3.157587625699659
         },
         {
           "date": "2026-06-30",
-          "home_price": 333601.18635976873,
-          "affordability_ratio": 3.146915448099145
+          "home_price": 333620.93255871383,
+          "affordability_ratio": 3.1467291899467407
         },
         {
           "date": "2026-07-31",
-          "home_price": 334729.93183596217,
-          "affordability_ratio": 3.136303709386319
+          "home_price": 334768.19916815474,
+          "affordability_ratio": 3.1359451987028013
         },
         {
           "date": "2026-08-31",
-          "home_price": 335858.66049693973,
-          "affordability_ratio": 3.1257634545032773
+          "home_price": 335915.4653937044,
+          "affordability_ratio": 3.1252348730932624
         },
         {
           "date": "2026-09-30",
-          "home_price": 336987.38703759294,
-          "affordability_ratio": 3.115293827726094
+          "home_price": 337062.73126103805,
+          "affordability_ratio": 3.114597460633313
         },
         {
           "date": "2026-10-31",
-          "home_price": 338116.1125617259,
-          "affordability_ratio": 3.104894111392297
+          "home_price": 338209.9967705413,
+          "affordability_ratio": 3.1040322192841776
         },
         {
           "date": "2026-11-30",
-          "home_price": 339244.8371522513,
-          "affordability_ratio": 3.0945636068401146
+          "home_price": 339357.26192222006,
+          "affordability_ratio": 3.0935384170454943
         },
         {
           "date": "2026-12-31",
-          "home_price": 340373.56081539777,
-          "affordability_ratio": 3.084301625381317
+          "home_price": 340504.5267160745,
+          "affordability_ratio": 3.083115331782748
         },
         {
           "date": "2027-01-31",
-          "home_price": 341502.28355163394,
-          "affordability_ratio": 3.07410748748633
+          "home_price": 341651.7911521047,
+          "affordability_ratio": 3.072762251061568
         },
         {
           "date": "2027-02-28",
-          "home_price": 342631.00536099565,
-          "affordability_ratio": 3.0639805225848558
+          "home_price": 342799.0552303108,
+          "affordability_ratio": 3.062478471985392
         },
         {
           "date": "2027-03-31",
-          "home_price": 343759.72624348634,
-          "affordability_ratio": 3.0539200689151413
+          "home_price": 343946.3189506929,
+          "affordability_ratio": 3.0522633010363927
         }
       ]
     },
@@ -38527,63 +38604,63 @@
       "forecast": [
         {
           "date": "2026-04-30",
-          "home_price": 364298.8519877131,
-          "affordability_ratio": 3.323437996027721
+          "home_price": 364298.85020907846,
+          "affordability_ratio": 3.323438012253909
         },
         {
           "date": "2026-05-31",
-          "home_price": 365368.915884754,
-          "affordability_ratio": 3.313704570826532
+          "home_price": 365368.9125859613,
+          "affordability_ratio": 3.313704600744854
         },
         {
           "date": "2026-06-30",
-          "home_price": 366438.8844245249,
-          "affordability_ratio": 3.304028851923372
+          "home_price": 366438.8797015933,
+          "affordability_ratio": 3.3040288945081064
         },
         {
           "date": "2026-07-31",
-          "home_price": 367508.7771297165,
-          "affordability_ratio": 3.294410152761888
+          "home_price": 367508.7710735503,
+          "affordability_ratio": 3.2944102070503765
         },
         {
           "date": "2026-08-31",
-          "home_price": 368578.5942867988,
-          "affordability_ratio": 3.284847968309179
+          "home_price": 368578.5869881761,
+          "affordability_ratio": 3.2848480333560017
         },
         {
           "date": "2026-09-30",
-          "home_price": 369648.3359051554,
-          "affordability_ratio": 3.275341801933319
+          "home_price": 369648.3274548394,
+          "affordability_ratio": 3.2753418768090072
         },
         {
           "date": "2026-10-31",
-          "home_price": 370718.0019901784,
-          "affordability_ratio": 3.2658911628395115
+          "home_price": 370717.99247891945,
+          "affordability_ratio": 3.2658912466302565
         },
         {
           "date": "2026-11-30",
-          "home_price": 371787.5925472019,
-          "affordability_ratio": 3.256495565950151
+          "home_price": 371787.5820657376,
+          "affordability_ratio": 3.256495657757526
         },
         {
           "date": "2026-12-31",
-          "home_price": 372857.1075815589,
-          "affordability_ratio": 3.247154531821308
+          "home_price": 372857.0962206139,
+          "affordability_ratio": 3.247154630762014
         },
         {
           "date": "2027-01-31",
-          "home_price": 373926.547098582,
-          "affordability_ratio": 3.237867586561188
+          "home_price": 373926.5349488682,
+          "affordability_ratio": 3.237867691766785
         },
         {
           "date": "2027-02-28",
-          "home_price": 374995.9111036034,
-          "affordability_ratio": 3.2286342617499817
+          "home_price": 374995.89825582,
+          "affordability_ratio": 3.2286343723666406
         },
         {
           "date": "2027-03-31",
-          "home_price": 376065.1996019549,
-          "affordability_ratio": 3.2194540943611165
+          "home_price": 376065.1861467882,
+          "affordability_ratio": 3.2194542095493683
         }
       ]
     }
