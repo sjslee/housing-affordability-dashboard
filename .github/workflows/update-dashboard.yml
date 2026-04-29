@@ -31,10 +31,14 @@ jobs:
         run: |
           python scripts/update_all.py
 
-      - name: Commit updated data
+      - name: Commit updated dashboard data
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add .
-          git commit -m "Automated monthly update" || echo "No changes to commit"
-          git push
+
+          git add dashboard/housing-dashboard-data.json
+
+          git diff --cached --quiet || git commit -m "Automated monthly dashboard update"
+
+          git pull --rebase origin main
+          git push origin main
